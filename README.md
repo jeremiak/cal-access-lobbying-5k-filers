@@ -2,6 +2,8 @@
 
 A `.csv` of $5k+ filers for each session, scraped daily from [California Secretary of State](https://cal-access.sos.ca.gov/Lobbying/Payments/).
 
+[![Scrape $5K filers](https://github.com/jeremiak/cal-access-lobbying-5k-filers/actions/workflows/scrape.yml/badge.svg)](https://github.com/jeremiak/cal-access-lobbying-5k-filers/actions/workflows/scrape.yml)
+
 Description of this data from the SoS:
 > Search alphabetically for persons spending $5,000 or more to influence legislative or administrative action. These filers do not employ a lobbyist and do not contract with a lobbying firm. They file each calendar quarter in which they spend $5,000 or more to influence legislative or administrative action.
 
