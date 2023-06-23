@@ -45,7 +45,7 @@ async function scrapeFilersForQueryAndSession(
     const filer = {
       session: `${session}`,
       name: firstCell.innerText,
-      fppcId: secondCell.innerText,
+      id: secondCell.innerText,
     };
 
     filers.push(filer);
