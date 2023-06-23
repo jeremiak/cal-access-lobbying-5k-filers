@@ -154,7 +154,7 @@ scraped.forEach(filer => {
 await activityQueue.onIdle();
 
 console.log(`Saving to ${scraped.length} filers to a file`);
-const filePath = `./5k-filers-financial-activity-${session}.csv`;
+const filePath = `./5k-filers-financial-activity-${session}.json`;
 const sorted = _.orderBy(scraped, ["name"]);
 await Deno.writeTextFile(filePath, JSON.stringify(sorted, null, 2));
 console.log(`All done`);
