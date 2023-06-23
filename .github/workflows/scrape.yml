@@ -16,13 +16,13 @@ jobs:
         with:
           deno-version: v1.x
       - name: Scrape 2023
-        run: deno run --allow-read=5k-filers.csv --allow-write=5k-filers.csv --allow-net ./scrape.ts --session 2023
+        run: deno run --allow-read=. --allow-write=. --allow-net ./scrape.ts --session 2023
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git pull
-          git add 5k-filers.csv
+          git add *.json
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
