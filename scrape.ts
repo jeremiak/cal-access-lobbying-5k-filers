@@ -1,6 +1,5 @@
 import _ from "npm:lodash@4.17";
 import Queue from "npm:p-queue@latest";
-import * as d3 from "npm:d3-dsv@latest";
 import { parse } from "https://deno.land/std@0.182.0/flags/mod.ts";
 import {
   DOMParser,
@@ -9,9 +8,17 @@ import {
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
 interface FiveKFiler {
-  session: string | undefined;
+  id: string | undefined;
   name: string | undefined;
-  fppcId: string | undefined;
+  quarters: Quarter[];
+}
+
+interface Quarter {
+  quarter: string | undefined;
+  session: string | undefined;
+  paymentsToInfluence: number | undefined;
+  pucLobbying: number | undefined;
+  lobbiedOn: string | undefined;
 }
 
 async function scrapeFilersForQueryAndSession(
@@ -43,9 +50,9 @@ async function scrapeFilersForQueryAndSession(
     const secondCell = cells[1] as Element;
 
     const filer = {
-      session: `${session}`,
       name: firstCell.innerText,
       id: secondCell.innerText,
+      quarters: []
     };
 
     filers.push(filer);
@@ -58,16 +65,74 @@ async function scrapeFilersForQueryAndSession(
   return filers;
 }
 
+async function scrapeFiveKFilerFinancialActivity(id: string, session: string): Promise<Quarter> {
+  console.log(`Scraping financial history for ${id}`)
+  const url = `https://cal-access.sos.ca.gov/Lobbying/Payments/Detail.aspx?id=${id}&view=activity&session=${session}`
+  const response = await fetch(url)
+  const html = await response.text()
+  const document: HTMLDocument | null = new DOMParser().parseFromString(
+    html,
+    "text/html",
+  );
+
+  const tbodies = document?.querySelectorAll('tbody')
+  const payments = tbodies[6]
+  const lobbied = tbodies.length === 8 ? null : tbodies[7]
+  // sometimes the table is missing, like in 
+  // https://cal-access.sos.ca.gov/Lobbying/Payments/Detail.aspx?id=1418603&session=2023&view=activity
+
+  if (!lobbied) {
+    console.log(`No lobbying activity for ${id}`)
+    return []
+  }
+
+  const paymentRows = payments.querySelectorAll('tr')
+  const lobbiedRows = lobbied.querySelectorAll('tr')
+
+  const quarters: Quarter[] = []
+
+  for (let i = 2; i < paymentRows.length; i++) {
+      const paymentCells = paymentRows[i].querySelectorAll('td')
+      const quarter = paymentCells[1].innerText.trim()
+      const session = paymentCells[0].innerText.trim()
+      const paymentsToInfluence = +paymentCells[2].innerText.replaceAll(',', '').replace('$', '')
+      const pucLobbying = +paymentCells[3].innerText.replaceAll(',', '').replace('$', '')
+      const lobbyingMatch = [...lobbiedRows].slice(2).find(row => {
+        const cells = row.querySelectorAll('td')
+        const s = cells[0].innerText
+        const q = cells[1].innerText
+
+        const sessionMatches = s.includes(session)
+        const quarterMatches = q === quarter
+
+        return sessionMatches && quarterMatches
+      })
+
+      const lobbiedOn = lobbyingMatch ? lobbyingMatch.querySelectorAll('td')[2].innerText : ''
+
+      quarters.push({
+        quarter,
+        session,
+        paymentsToInfluence,
+        pucLobbying,
+        lobbiedOn,
+      })
+  }
+
+  return quarters
+}
+
 const args = parse(Deno.args);
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0".split("");
-const queue = new Queue({ concurrency: 4 });
+const filerQueue = new Queue({ concurrency: 4 });
+const activityQueue = new Queue({ concurrency: 4 });
 const scraped: FiveKFiler[] = [];
-const session = args.session || "2023";
+const session = args.session || "2021";
 
 console.log(`Scraping $5K filers for the ${session}-${+session + 1} session`);
 
 letters.forEach((query: string) => {
-  queue.add(async () => {
+  filerQueue.add(async () => {
     const filers: FiveKFiler[] = await scrapeFilersForQueryAndSession(
       query,
       session,
@@ -76,21 +141,20 @@ letters.forEach((query: string) => {
   });
 });
 
-await queue.onIdle();
+await filerQueue.onIdle();
+
+console.log(`Getting financial activity for each filer this session`)
+scraped.forEach(filer => {
+  activityQueue.add(async () => {
+    const quarters: Quarter[] = await scrapeFiveKFilerFinancialActivity(filer.id, session)
+    filer.quarters = quarters
+  })
+})
+
+await activityQueue.onIdle();
 
 console.log(`Saving to ${scraped.length} filers to a file`);
-const filePath = `./5k-filers.csv`;
-const existingFile = await Deno.readTextFile(filePath);
-const existing = d3.csvParse(existingFile);
-const withoutSession = existing.filter((d: FiveKFiler) =>
-  d.session !== `${session}`
-);
-const combined = [...withoutSession, ...scraped];
-const sorted = _.orderBy(combined, ["session", "name", "fppcId"], [
-  "desc",
-  "asc",
-  "asc",
-]);
-const text = d3.csvFormat(sorted);
-await Deno.writeTextFile(filePath, text);
+const filePath = `./5k-filers-financial-activity-${session}.csv`;
+const sorted = _.orderBy(scraped, ["name"]);
+await Deno.writeTextFile(filePath, JSON.stringify(sorted, null, 2));
 console.log(`All done`);
