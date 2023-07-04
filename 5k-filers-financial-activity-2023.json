@@ -39,6 +39,19 @@
     ]
   },
   {
+    "name": "BOLTON, AN IMA COMPANY",
+    "id": "1461483",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
+      }
+    ]
+  },
+  {
     "name": "BRAESWOOD CARBON PARTNERS, LP",
     "id": "1444222",
     "quarters": [
@@ -165,6 +178,19 @@
         "paymentsToInfluence": 30000,
         "pucLobbying": 0,
         "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
+      }
+    ]
+  },
+  {
+    "name": "CAPITAL INSURANCE GROUP (CIG)",
+    "id": "1461490",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
       }
     ]
   },
@@ -312,6 +338,19 @@
     ]
   },
   {
+    "name": "GEORGE PETERSEN INSURANCE AGENCY, INC.",
+    "id": "1461495",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
+      }
+    ]
+  },
+  {
     "name": "GOLDEN STATE COMMUNITIES",
     "id": "1455913",
     "quarters": [
@@ -351,6 +390,19 @@
     ]
   },
   {
+    "name": "INTERWEST INSURANCE SERVICES, LLC",
+    "id": "1461485",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
+      }
+    ]
+  },
+  {
     "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405417",
     "quarters": [
@@ -386,6 +438,19 @@
         "paymentsToInfluence": 18255,
         "pucLobbying": 0,
         "lobbiedOn": "SB 567"
+      }
+    ]
+  },
+  {
+    "name": "MORRIS & GARRITANO INSURANCE AGENCY, INC.",
+    "id": "1461488",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
       }
     ]
   },
