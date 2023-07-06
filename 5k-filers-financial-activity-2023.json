@@ -338,6 +338,19 @@
     ]
   },
   {
+    "name": "FRESNO IRRIGATION DISTRICT",
+    "id": "1401352",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 29770,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "name": "GEORGE PETERSEN INSURANCE AGENCY, INC.",
     "id": "1461495",
     "quarters": [
@@ -737,6 +750,19 @@
         "paymentsToInfluence": 4354.16,
         "pucLobbying": 6516.02,
         "lobbiedOn": "AB 41, 286, 662, 1461, 1588, 1714; SB 754, 860; CA PUBLIC UTILITIES COMMISSION RE: A.22-09-003, R.22-09-016"
+      }
+    ]
+  },
+  {
+    "name": "WINTON-IRELAND, STROM & GREEN INSURANCE AGENCY, INC.",
+    "id": "1461492",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS UNAVAILABILITY OF PROPERTY AND AUTO INSURANCE."
       }
     ]
   }
