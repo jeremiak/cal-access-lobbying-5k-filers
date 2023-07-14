@@ -628,6 +628,13 @@
     "id": "1306660",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12789.89,
+        "pucLobbying": 920,
+        "lobbiedOn": "Legislature: AB 41, 662, 965, 1461, 1588, 1714; and SB 754, 860. State Agency Administrative: R.22-03-016 Order Instituting Rulemaking Proceeding to Consider Amendments to General Order 133; and R.23-02-016 Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 12789.89,
@@ -705,6 +712,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
