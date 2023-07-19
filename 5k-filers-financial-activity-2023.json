@@ -329,6 +329,13 @@
     "id": "1405418",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3134.52,
+        "pucLobbying": 956,
+        "lobbiedOn": "Legislature: AB 41, 662, 965, 1461, 1588, 1714; and SB 754, 860. A.22-11-001 In the Matter of Application of Foresthill Telephone Co. (U 1009 C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates. R.22-03-016 Order Instituting Rulemaking Proceeding to Consider Amendments to General Order 133."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 3134.52,
@@ -419,6 +426,13 @@
     "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405417",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3941.57,
+        "pucLobbying": 1048,
+        "lobbiedOn": "Legislature: AB 41, 662, 965, 1461, 1588, 1714; and SB 754, 860. A.22-11-002 In the Matter of Application of Kerman Telephone Co. (U 1012 C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates. R.22-03-016 Order Instituting Rulemaking Proceeding to Consider Amendments to General Order 133."
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
