@@ -26,6 +26,19 @@
     ]
   },
   {
+    "name": "AMERICAN TORT REFORM ASSOCIATION",
+    "id": "1420002",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 585 -- Legislature"
+      }
+    ]
+  },
+  {
     "name": "BLUE SHIELD OF CALIFORNIA FOUNDATION",
     "id": "1439197",
     "quarters": [
@@ -694,6 +707,13 @@
     "name": "SISKIYOU TELEPHONE COMPANY",
     "id": "1396090",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6211.03,
+        "pucLobbying": 469,
+        "lobbiedOn": "See Form 645 Attachment."
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
