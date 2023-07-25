@@ -225,6 +225,13 @@
     "id": "1439710",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7507.9,
+        "pucLobbying": 0,
+        "lobbiedOn": "In support of general legislative subject matter concerning Article V of the U.S. Constitution"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 11249.85,
@@ -695,6 +702,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15668.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, DTSC: metal recycling and the circular economy, recycling center tour."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 25459.62,
@@ -800,6 +814,13 @@
     "id": "1441782",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8783.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, DTSC: metal recycling and the circular economy, recycling center tour."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 10338.43,
@@ -818,6 +839,19 @@
         "paymentsToInfluence": 4354.16,
         "pucLobbying": 6516.02,
         "lobbiedOn": "AB 41, 286, 662, 1461, 1588, 1714; SB 754, 860; CA PUBLIC UTILITIES COMMISSION RE: A.22-09-003, R.22-09-016"
+      }
+    ]
+  },
+  {
+    "name": "VOTE SOLAR",
+    "id": "1380645",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 65159.12,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory Dockets: CPUC A. 22-05-022, CPUC R.21-06-017, CPUC R.19-09-009, CPUC R.20-08-020, CPUC Draft Resolution M-4868"
       }
     ]
   },
