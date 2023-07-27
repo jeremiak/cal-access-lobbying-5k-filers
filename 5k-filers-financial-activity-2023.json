@@ -43,6 +43,13 @@
     "id": "1439197",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 194866,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 117010,
@@ -439,6 +446,19 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: Price Gouging Penalty Bill; AB 421 referendum reform CalGem: 3200 oil and gas well setbacks policy CA Public Utilities Commission: net energy metering program"
+      }
+    ]
+  },
+  {
+    "name": "HEWLETT FOUNDATION; THE WILLAM AND FLORA",
+    "id": "1302211",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6000,
+        "pucLobbying": 1000,
+        "lobbiedOn": ""
       }
     ]
   },
