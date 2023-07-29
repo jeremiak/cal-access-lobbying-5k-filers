@@ -131,9 +131,21 @@
     ]
   },
   {
+    "name": "CALIFORNIA ALLIANCE FOR JOBS",
+    "id": "P24740",
+    "quarters": []
+  },
+  {
     "name": "CALIFORNIA CHARTER SCHOOLS ASSOCIATION",
     "id": "1418078",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 132712.27,
+        "pucLobbying": 0,
+        "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 5, AB 238, AB 247, AB 278, AB 368, AB 610, AB 638, AB 757, AB 1078, AB 1393, AB 1479, AB 1604, SB 28, SB 88, SB 98, SB 278, SB 293, SB 307, SB 348, SB 426, SB 445, SB 499, SB 706, SB 739, SB 760, SB 765, SB 767, SB 857 AND BUDGET.   GOVERNOR?S OFFICE REGARDING: SB 739.   STATE TREASURER?S OFFICE AND CALIFORNIA SCHOOL FINANCE AUTHORITY REGARDING: AB 1604."
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -595,6 +607,19 @@
     ]
   },
   {
+    "name": "LEADERSHIP COUNSEL FOR JUSTICE AND ACCOUNTABILITY",
+    "id": "1418369",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 17955.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 558, SB 709, SB 567, state budget"
+      }
+    ]
+  },
+  {
     "name": "MILLION VOTER PROJECT ACTION FUND",
     "id": "1460004",
     "quarters": [
@@ -792,9 +817,29 @@
     ]
   },
   {
+    "name": "SEIU 2015",
+    "id": "1397628",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 363967.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1006, 1672, SB 525"
+      }
+    ]
+  },
+  {
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 268344.81,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 616, AB 869, SB 399, SB 525, SB 779"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -814,6 +859,19 @@
         "paymentsToInfluence": 18172.95,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1228"
+      }
+    ]
+  },
+  {
+    "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 521",
+    "id": "1340255",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 210337.11,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 525, 779; State Budget"
       }
     ]
   },
@@ -913,6 +971,19 @@
         "paymentsToInfluence": 31175.38,
         "pucLobbying": 0,
         "lobbiedOn": "SB 4, 423."
+      }
+    ]
+  },
+  {
+    "name": "SURFRIDER FOUNDATION",
+    "id": "1396237",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12451.37,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 286, SB 272, AB 45, AB 80, SB 337, AB 343, SB 272, AB 1150, SB 704, AB 1628, AB 1290, SB 559; coastal access; AB 1407; SB 278"
       }
     ]
   },
