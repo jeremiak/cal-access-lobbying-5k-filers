@@ -232,6 +232,13 @@
     "id": "1438059",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 62250,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 30000,
@@ -657,6 +664,13 @@
     "id": "1417978",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6973,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL RATES, BUDGET"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 7803,
@@ -817,6 +831,19 @@
     ]
   },
   {
+    "name": "RIDGELINE PEDIATRIC",
+    "id": "1461909",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7548,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL RATES, BUDGET"
+      }
+    ]
+  },
+  {
     "name": "SEIU 2015",
     "id": "1397628",
     "quarters": [
@@ -966,6 +993,13 @@
     "id": "1288413",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5833.55,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 4, 423."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 31175.38,
@@ -1017,6 +1051,19 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 40000,
         "lobbiedOn": "California Public Utilities Commission proceedings"
+      }
+    ]
+  },
+  {
+    "name": "TOGETHER WE GROW",
+    "id": "1417976",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 11118,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL RATES, BUDGET"
       }
     ]
   },
