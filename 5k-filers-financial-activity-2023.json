@@ -20,9 +20,29 @@
     ]
   },
   {
+    "name": "AMERICAN ACADEMY OF OPTHAMOLOGY",
+    "id": "1461817",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 100000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
     "id": "1439791",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 22477.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -105,9 +125,29 @@
     ]
   },
   {
+    "name": "BURKE WILLIAMS DAY SPA",
+    "id": "1461962",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6092.32,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION"
+      }
+    ]
+  },
+  {
     "name": "CAL-ORE TELEPHONE COMPANY",
     "id": "1405445",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3220.93,
+        "pucLobbying": 417,
+        "lobbiedOn": "AB 41, 662, 965, 1461, 1588, 1714; SB 754, 860; CA PUBLIC UTILITIES COMMISSION RE: R.22-03-016, R.23-02-016"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -121,6 +161,13 @@
     "name": "CALAVERAS TELEPHONE COMPANY",
     "id": "1396091",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2635.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 41, 662, 965, 1461, 1588, 1714; and SB 754, 860"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -172,6 +219,13 @@
     "name": "CALIFORNIA ENERGY AND INFRASTRUCTURE LABOR MANAGEMENT COOPERATION TRUST",
     "id": "1439949",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 160000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -228,6 +282,19 @@
     ]
   },
   {
+    "name": "CALIFORNIANS TO PROTECT LOCAL JOBS",
+    "id": "1461796",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: SB 549"
+      }
+    ]
+  },
+  {
     "name": "CALOMA - CALIFORNIA LABOR OIL MANAGEMENT ALLIANCE",
     "id": "1438059",
     "quarters": [
@@ -277,6 +344,13 @@
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 22440.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q2:"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -337,6 +411,13 @@
     "id": "1405469",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1859.12,
+        "pucLobbying": 208,
+        "lobbiedOn": "AB 41, 662, 965, 1461, 1588, 1714; SB 754, 860; GOVERNOR'S OFFICE RE: BRB LAW WILL SUPPLYCA PUBLIC UTILITIES COMMISSION RE: A.22-03-016, R.22-02-016"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 1859.12,
@@ -376,11 +457,31 @@
     "id": "1303365",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9999.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2023."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 13333.32,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2023."
+      }
+    ]
+  },
+  {
+    "name": "ELEMENTS MASSAGE",
+    "id": "1461957",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6646.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION"
       }
     ]
   },
@@ -466,6 +567,19 @@
         "paymentsToInfluence": 29770,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "FUND FOR A BETTER FUTURE INC",
+    "id": "1461902",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 21974,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 252, 253, 261"
       }
     ]
   },
@@ -680,9 +794,29 @@
     ]
   },
   {
+    "name": "NATIONAL RESTAURANT ASSOCIATION",
+    "id": "1444120",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9108.24,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228."
+      }
+    ]
+  },
+  {
     "name": "NO ON AB 1228 - STOP THE ATTACK ON LOCAL RESTAURANTS",
     "id": "1459716",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3489308.13,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -737,6 +871,13 @@
     "id": "1419888",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 121328.18,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 567, SB4, SB225; AB1482"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 11504.21,
@@ -759,6 +900,26 @@
     ]
   },
   {
+    "name": "PLANNED PARENTHOOD OF ORANGE & SAN BERNARDINO COUNTIES",
+    "id": "1461948",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7964.57,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 352, 492, 576, 583, 1646, 1707; SB 487."
+      },
+      {
+        "quarter": "1st",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7756.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
     "name": "POLICYLINK",
     "id": "1244005",
     "quarters": [
@@ -776,6 +937,13 @@
     "id": "1396247",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3770.61,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 41, 662, 965, 1461, 1588, 1714; SB 754, 860"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 3770.61,
@@ -788,6 +956,13 @@
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 26498,
+        "pucLobbying": 0,
+        "lobbiedOn": "CTC;DOF;Governor's Ofc;Lt Gov's Ofc;SBE;Assemblymembers Addis,Alvarez,Bonta,Bryan,Fong,Gabriel,Irwin,Kalra,Low,McCarty,Ortega,Rendon,Sanchez,Santiago,Schiavo,Ta,Weber;Senators Ashby,Caballero,Laird,Limon,McGuire,Min,Skinner,Umberg,Wahab,Wiener;ABs 309 358 638 644 811 919 920 1086 1127 1540"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -844,6 +1019,32 @@
     ]
   },
   {
+    "name": "SAN FRANCISCO FOUNDATION; THE",
+    "id": "1368816",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 80000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Child Support and Child Poverty Provisions of the State Budget -- Legislature"
+      }
+    ]
+  },
+  {
+    "name": "SAVE LOCAL RESTAURANTS NATIONAL",
+    "id": "1459886",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 65058.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228"
+      }
+    ]
+  },
+  {
     "name": "SEIU 2015",
     "id": "1397628",
     "quarters": [
@@ -881,6 +1082,13 @@
     "id": "1256591",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 19457.69,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 18172.95,
@@ -899,6 +1107,19 @@
         "paymentsToInfluence": 210337.11,
         "pucLobbying": 0,
         "lobbiedOn": "SB 525, 779; State Budget"
+      }
+    ]
+  },
+  {
+    "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC",
+    "id": "1302175",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 134001.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 616, 1006, 1484; SB 525, 779"
       }
     ]
   },
@@ -1009,6 +1230,19 @@
     ]
   },
   {
+    "name": "STOP SB 525",
+    "id": "1461979",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 224792.48,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 525."
+      }
+    ]
+  },
+  {
     "name": "SURFRIDER FOUNDATION",
     "id": "1396237",
     "quarters": [
@@ -1038,6 +1272,32 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "TECHEQUITY ACTION",
+    "id": "1461990",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9999.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1356, SB 627, SB 399, AB 1484, AB 1356, SB 403 AB 747 SB 567 AB 647 AB 524"
+      }
+    ]
+  },
+  {
+    "name": "TFP GROUP, INC. DBA TRAINING FUNDING PARTNERS",
+    "id": "1438336",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE, & GOVERNOR'S OFFICE RE: EMPLOYMENT TRAINING PANEL FUNDING."
       }
     ]
   },
@@ -1088,9 +1348,29 @@
     ]
   },
   {
+    "name": "VALLECITOS WATER DISTRICT",
+    "id": "1396377",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 18015.89,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 41, 286, 662, 1461, 1588, 1714; SB 754, 860; CA PUBLIC UTILITIES COMMISSION RE: A.22-09-003, R.22-09-016"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
@@ -1123,6 +1403,19 @@
         "paymentsToInfluence": 10000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS UNAVAILABILITY OF PROPERTY AND AUTO INSURANCE."
+      }
+    ]
+  },
+  {
+    "name": "WOMEN'S FOUNDATION OF CALIFORNIA",
+    "id": "1265164",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 915, 957; SB 10, 474, 521"
       }
     ]
   }
