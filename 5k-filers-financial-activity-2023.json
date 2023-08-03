@@ -1032,7 +1032,7 @@
     ]
   },
   {
-    "name": "SAVE LOCAL RESTAURANTS NATIONAL",
+    "name": "SAVE LOCAL RESTAURANTS",
     "id": "1459886",
     "quarters": [
       {
@@ -1305,6 +1305,13 @@
     "name": "THE PROTECT OUR COMMUNITIES FOUNDATION",
     "id": "1460444",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 16000,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
