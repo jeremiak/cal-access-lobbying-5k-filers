@@ -374,6 +374,19 @@
     ]
   },
   {
+    "name": "CONCORDIA UNIVERSITY IRVINE",
+    "id": "1392096",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "name": "CONVENTION OF STATES ACTION",
     "id": "1439710",
     "quarters": [
