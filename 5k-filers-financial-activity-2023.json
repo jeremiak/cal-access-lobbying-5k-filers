@@ -4,6 +4,13 @@
     "id": "1441821",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 176248.78,
+        "lobbiedOn": "CPUC Proceeding Re: Demand Flexibility Rulemaking (R.22-07-005)"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -1434,6 +1441,19 @@
     ]
   },
   {
+    "name": "VANGUARD UNIVERSITY OF SOUTHERN CALIFORNIA",
+    "id": "1392157",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
@@ -1463,6 +1483,19 @@
         "paymentsToInfluence": 65159.12,
         "pucLobbying": 0,
         "lobbiedOn": "Regulatory Dockets: CPUC A. 22-05-022, CPUC R.21-06-017, CPUC R.19-09-009, CPUC R.20-08-020, CPUC Draft Resolution M-4868"
+      }
+    ]
+  },
+  {
+    "name": "WESTMONT COLLEGE",
+    "id": "1399860",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
