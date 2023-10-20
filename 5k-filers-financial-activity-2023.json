@@ -66,7 +66,7 @@
       {
         "quarter": "2nd",
         "session": "2023-2024",
-        "paymentsToInfluence": 32830.02,
+        "paymentsToInfluence": 39953.95,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature re: SB 407, SB 852, AB 453, AB 763, AB 764, AB 793, AB 957, AB 1163, AB 1209, AB 1352, AB 1544, AB 1726, ACA 5, ACA 10"
       }
@@ -792,6 +792,13 @@
     "id": "1418369",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 17955.6,
@@ -910,6 +917,13 @@
     "name": "PACIFIC ENVIRONMENT",
     "id": "1460178",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -1200,6 +1214,19 @@
         "paymentsToInfluence": 12789.89,
         "pucLobbying": 1894.38,
         "lobbiedOn": "Legislature: AB 41, 286, 662, 1461, 1588, 1714; and SB 754, 860 State Agency Administrative: R.22-03-016 Order Instituting Rulemaking Proceeding to Consider Amendments to General Order 133; and A.22-09-003 Application of Sierra Telephone Company, Inc. (U1016C) for a Determination of Applicants? Cost of Capital for Ratemaking Purposes."
+      }
+    ]
+  },
+  {
+    "name": "SIMPSON UNIVERSITY",
+    "id": "1392459",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
