@@ -1,5 +1,18 @@
 [
   {
+    "name": "ALL ONE GOD FAITH, INC. D/B/A/ DR. BRONNER'S MAGIC SOAP",
+    "id": "1450269",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 100000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 58"
+      }
+    ]
+  },
+  {
     "name": "ALLIANCE FOR SOLAR CHOICE 'TASC'; THE",
     "id": "1441821",
     "quarters": [
@@ -43,6 +56,13 @@
     "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
     "id": "1439791",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5279.56,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 764, 793, 1027, 1034, 1394, 1584; ACA 4, 8; SB 2, 14, 35, 43; LEGISLATIVE ANALYST\u0012S OFFICE RE: ANTI-TRANSGENDER BALLOT INITIATIVES, MARRIAGE BALLOT INITIATIVE; ATTORNEY GENERALS OFFICE RE: ANTI-TRANSGENDER BALLOT INITIATIVES; LEGISLATURE RE: FACE SURVEILLANCE, GEOFENCE WARRANTS, THE HOME ACT"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -1111,6 +1131,13 @@
     "id": "1368816",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 4, ACA 1, SB 567, ACA 13 - Legislature"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 80000,
@@ -1249,6 +1276,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12665.8,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Department of Toxic Substances Control: Metal recycling and the circular economy; Department of Toxic Substances Control: Chemically Treated Metal Shredder Residue Regulations."
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 15668.68,
@@ -1268,6 +1302,13 @@
     "name": "SISKIYOU TELEPHONE COMPANY",
     "id": "1396090",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6211.93,
+        "pucLobbying": 61,
+        "lobbiedOn": "Legislature: AB 41, AB 662, AB 965.  CA Public Utilities Commission (CPUC): R.23-02-016 Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program."
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -1360,6 +1401,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
