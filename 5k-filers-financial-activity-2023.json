@@ -425,6 +425,13 @@
     "id": "1439710",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6025.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "In support of general legislative subject matter concerning Article V of the U.S. Constitution; SJR 7"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 7507.9,
@@ -838,6 +845,19 @@
         "paymentsToInfluence": 17955.6,
         "pucLobbying": 0,
         "lobbiedOn": "AB 558, SB 709, SB 567, state budget"
+      }
+    ]
+  },
+  {
+    "name": "LIFE PACIFIC UNIVERSITY",
+    "id": "1392095",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -1263,6 +1283,13 @@
     "name": "SIERRA TELEPHONE COMPANY",
     "id": "1306660",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12789.89,
+        "pucLobbying": 120,
+        "lobbiedOn": "Legislature: AB 41, 662, and 965 R.23-02-016 Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
