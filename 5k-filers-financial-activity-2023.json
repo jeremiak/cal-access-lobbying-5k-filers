@@ -177,6 +177,13 @@
     "id": "1444222",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 5000,
@@ -389,6 +396,19 @@
     ]
   },
   {
+    "name": "CHP SPV 2 LLC",
+    "id": "1463618",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      }
+    ]
+  },
+  {
     "name": "COMMUNITY PARTNERS",
     "id": "1385218",
     "quarters": [
@@ -545,6 +565,13 @@
     "id": "1303365",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9999.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2023."
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 9999.99,
@@ -682,6 +709,19 @@
         "paymentsToInfluence": 29770,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "FRIEDMAN, MARK",
+    "id": "1463807",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 701, SOLUTIONS TO HOMELESS CRISIS, FENTANYL"
       }
     ]
   },
@@ -1253,6 +1293,13 @@
     "id": "1276614",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 150051.22,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor's Office re: AB 616, AB 716, AB 869, SB 525, SB 770, SB 779. Additional items in memo."
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 268344.81,
@@ -1412,6 +1459,13 @@
     "name": "SIXTEEN THIRTY FUND",
     "id": "1437356",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Industrial electrification and decarbonization"
+      },
       {
         "quarter": "1st",
         "session": "2023-2024",
