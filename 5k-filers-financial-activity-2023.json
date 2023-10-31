@@ -44,6 +44,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1570"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 100000,
@@ -210,6 +217,13 @@
     "id": "1405445",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3220.93,
+        "pucLobbying": 55,
+        "lobbiedOn": "AB 41, 662, 965; CA PUBLIC UTILITIES COMMISSION RE: R.23-02-016"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 3220.93,
@@ -300,6 +314,19 @@
         "paymentsToInfluence": 130000,
         "pucLobbying": 0,
         "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA GAMING ASSOCIATION",
+    "id": "1415491",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5400,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 549"
       }
     ]
   },
@@ -426,6 +453,13 @@
     "id": "1442003",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10813.28,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q3:"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 22440.75,
@@ -518,6 +552,13 @@
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1859.12,
+        "pucLobbying": 27,
+        "lobbiedOn": "AB 41, 662, 965; CA PUBILC UTILITIES COMMISSION RE: R.23-02-016"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -1267,6 +1308,13 @@
     "id": "1459886",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 109777.04,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 65058.84,
@@ -1320,6 +1368,13 @@
     "id": "1256591",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 59494,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 1019457.69,
@@ -1352,6 +1407,13 @@
     "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC",
     "id": "1302175",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 32085.07,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1224, 1228; SB 525."
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -1493,6 +1555,13 @@
     "id": "1288413",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6109.59,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 4, 423."
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 5833.55,
@@ -1512,6 +1581,13 @@
     "name": "STOP SB 525",
     "id": "1461979",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 594432.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING SB 525."
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
