@@ -811,14 +811,14 @@
         "session": "2023-2024",
         "paymentsToInfluence": 22513,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       },
       {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 29770,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -993,7 +993,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "paymentsToInfluence": 0,
+        "paymentsToInfluence": 3941.57,
         "pucLobbying": 26345.5,
         "lobbiedOn": "Legislature: AB 41, 662, and 965.  R.23-02-016 Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program; A.22-11-002 In the Matter of Application of Kerman Telephone Co. (U1012C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates"
       },
@@ -1836,7 +1836,7 @@
         "session": "2023-2024",
         "paymentsToInfluence": 0,
         "pucLobbying": 18854,
-        "lobbiedOn": ""
+        "lobbiedOn": "California Public Utilities Commission proceedings"
       },
       {
         "quarter": "2nd",
