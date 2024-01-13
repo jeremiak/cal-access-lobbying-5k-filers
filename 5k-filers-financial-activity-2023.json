@@ -800,6 +800,20 @@
     "id": "1405418",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3134.52,
+        "pucLobbying": 4343,
+        "lobbiedOn": "A.22-09-003: Foresthill Telephone Company (U1009C) for a Determination of Applicants? Cost of Capital for Ratemaking Purposes; A.22-11-001: In the Matter of Application of Foresthill Telephone Co. (U 1009 C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates;"
+      },
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 26333.5,
+        "lobbiedOn": "Legislature: AB 41, 662, and 965. R.23-02-016 Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program;  A.22-11-001 In the Matter of Application of Foresthill Telephone Co. (U 1009 C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates;"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 3134.52,
@@ -1003,6 +1017,13 @@
     "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405417",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3941.57,
+        "pucLobbying": 4485,
+        "lobbiedOn": "? A.22-09-003 Kerman Telephone Co. (U1012C) for a Determination of Applicants? Cost of Capital for Ratemaking Purposes ? A.22-11-002: In the Matter of Application of Kerman Telephone Co. (U1012C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates;"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -1785,6 +1806,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "? A.22-09-003: Application for a Determination of Applicants? Cost of Capital for Ratemaking Purposes; ?R.23-02-016: Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program; and ?R.20-02-008: Order Instituting Rulemaking to Update the California Lifeline Program."
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
