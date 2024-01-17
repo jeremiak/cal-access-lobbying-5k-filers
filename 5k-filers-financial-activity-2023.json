@@ -17,6 +17,13 @@
     "id": "1441821",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 132337.54,
+        "lobbiedOn": "CPUC Proceeding Re: R.22-07-005"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
