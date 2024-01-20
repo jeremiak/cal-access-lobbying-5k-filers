@@ -1694,6 +1694,13 @@
     "id": "1396090",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6211.93,
+        "pucLobbying": 727,
+        "lobbiedOn": "See Form 645 Notes."
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 6211.93,
