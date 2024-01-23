@@ -995,6 +995,19 @@
     ]
   },
   {
+    "name": "HYUNDAI MOTOR AMERICA",
+    "id": "1466137",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 473"
+      }
+    ]
+  },
+  {
     "name": "INTERNATIONAL UNION, UAW",
     "id": "1460220",
     "quarters": [
@@ -1626,6 +1639,13 @@
     "name": "SIERRA TELEPHONE COMPANY",
     "id": "1306660",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12789.89,
+        "pucLobbying": 1427,
+        "lobbiedOn": "Legislature: None State:A.22-09-003, R.23-02-016 and R.20-02-008."
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
