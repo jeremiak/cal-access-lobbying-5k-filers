@@ -1687,6 +1687,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 27710.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislation regarding the regulation of metal recycling: Department of Toxic Substances Control: Chemically Treated Metal Shredder Residue Regulations."
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 12665.8,
