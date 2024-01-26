@@ -204,6 +204,13 @@
     "id": "1444222",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 5000,
@@ -488,6 +495,13 @@
     "name": "CHP SPV 2 LLC",
     "id": "1463618",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -841,6 +855,13 @@
     "id": "1401352",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 26878,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 22513,
@@ -1072,6 +1093,13 @@
     "id": "1396702",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 39895.17,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 234, 249, 460, 682, 754, 755, 838, 1211, 1337, 1484, 1567, 1572, 1594; SB 23, 48, 366, 389, 676, 687, 867"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 15819,
@@ -1101,9 +1129,9 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "paymentsToInfluence": 0,
+        "paymentsToInfluence": 2434.09,
         "pucLobbying": 0,
-        "lobbiedOn": ""
+        "lobbiedOn": "SB 567, right to counsel, Air Resources Board Low Carbon Fuel Standard"
       },
       {
         "quarter": "2nd",
@@ -1974,6 +2002,13 @@
     "name": "UNIVERSAL SERVICE RECYCLING, INC.",
     "id": "1441782",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10071.6,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Legislation regarding the regulation of metal recycling; Department of Toxic Substances Control: Chemically Treated Metal Shredder Residue Regulations."
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
