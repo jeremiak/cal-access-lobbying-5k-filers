@@ -51,6 +51,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 32500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1570"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 75000,
@@ -752,6 +759,19 @@
     ]
   },
   {
+    "name": "ENVIRONMENTAL JUSTICE COALITION FOR WATER",
+    "id": "1463608",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "name": "EQUAL RIGHTS ADVOCATES",
     "id": "1437784",
     "quarters": [
@@ -1213,6 +1233,13 @@
     "name": "MY FRIENDS",
     "id": "1417978",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7165.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "HEALTH AND HUMAN SERVICES AGENCY RE: DEPT OF DEVELOPMENTAL SERVICES RATES"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -2010,6 +2037,13 @@
     "name": "TOGETHER WE GROW",
     "id": "1417976",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5559,
+        "pucLobbying": 0,
+        "lobbiedOn": "HEALTH AND HUMAN SERVICES AGENCY RE: DEPT OF DEVELOPMENTAL SERVICES RATES"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
