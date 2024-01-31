@@ -158,6 +158,13 @@
     "id": "1439197",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 16641,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 35465,
@@ -250,6 +257,13 @@
     "name": "CAL-ORE TELEPHONE COMPANY",
     "id": "1405445",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3220.93,
+        "pucLobbying": 646,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: A.22-09-003, R.23-02-016, R.20-02-008"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -377,6 +391,13 @@
     "id": "1415491",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 29600,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 549"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 5400,
@@ -423,6 +444,13 @@
     "id": "1368757",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 76470.59,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 2862000,
@@ -462,6 +490,13 @@
     "name": "CALOMA - CALIFORNIA LABOR OIL MANAGEMENT ALLIANCE",
     "id": "1438059",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 37500,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -642,6 +677,13 @@
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1859.12,
+        "pucLobbying": 1109.5,
+        "lobbiedOn": "CA PUBILC UTILITIES COMMISSION RE: A.22-09-003, A.23-08-016, R.23-02-016, R.20-02-008"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -935,6 +977,13 @@
     "id": "1461902",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 47444.63,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 253, 261"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 21974,
@@ -1119,6 +1168,19 @@
         "paymentsToInfluence": 3941.57,
         "pucLobbying": 2588.37,
         "lobbiedOn": "R.22-03-016 Order Instituting Rulemaking Proceeding to Consider Amendments to General Order 133 A.22-09-003 Application of Kerman Telephone Co. (U1012C) In the Matter of Application of Kerman Telephone Co. (U1012C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates. Legislature: AB 41, 286, 662, 1461, 1588, 1714; and SB 754, 860"
+      }
+    ]
+  },
+  {
+    "name": "LAKE HEMET MUNICIPAL WATER DISTRICT",
+    "id": "1396104",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 40034,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
@@ -1429,6 +1491,13 @@
     "id": "1244005",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7400,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Community Economic Resilience Fund pilot."
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 32563.7,
@@ -1596,6 +1665,13 @@
     "id": "1459886",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 183391,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 109777.04,
@@ -1628,6 +1704,13 @@
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 64764.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "Office of Health Care Affordability re: AB 1204 regulations, Health Care Payments Database. Respiratory Care Board re: workforce issues.  Labor Agency re: California Youth Apprenticeship Council, AB 2849 Co-op study panel."
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -1921,6 +2004,19 @@
     ]
   },
   {
+    "name": "STREETS FOR ALL",
+    "id": "1466461",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5329.16,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: street safety and land use policies, rail policy, AB 1317 clean up, SB 695 clean up, highway expansion, speed limits, climate policy, parking policy, Coastal Commission policy."
+      }
+    ]
+  },
+  {
     "name": "SURFRIDER FOUNDATION",
     "id": "1396237",
     "quarters": [
@@ -2098,6 +2194,13 @@
     "name": "VALLECITOS WATER DISTRICT",
     "id": "1396377",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 21775,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
