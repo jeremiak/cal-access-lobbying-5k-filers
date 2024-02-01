@@ -78,6 +78,13 @@
     "id": "1439791",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 56076.35,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 5279.56,
@@ -150,6 +157,19 @@
         "paymentsToInfluence": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1577 - Legislature"
+      }
+    ]
+  },
+  {
+    "name": "BIOLA UNIVERSITY",
+    "id": "1399830",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -292,6 +312,13 @@
     "id": "1396091",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2635.87,
+        "pucLobbying": 715,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: A.22-09-003, R.23-02-016, R.20-02-008"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 2635.87,
@@ -323,6 +350,13 @@
     "name": "CALIFORNIA CHARTER SCHOOLS ASSOCIATION",
     "id": "1418078",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 99583.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 278, 1479, 1604; SB 88, 348, 760; DEPARTMENT OF FINANCE RE: BUDGET DISCUSSIONS"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -578,6 +612,13 @@
     "id": "1442003",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3774.11,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q4:"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 10813.28,
@@ -745,6 +786,13 @@
     "id": "1303365",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9999.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2023."
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 9999.99,
@@ -831,6 +879,13 @@
     "id": "1462949",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 11044.27,
+        "pucLobbying": 0,
+        "lobbiedOn": "Attorney General action relating to mobile gaming"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 41287.01,
@@ -866,9 +921,29 @@
     ]
   },
   {
+    "name": "FIX PAGA: A BETTER, FAIRER WAY FOR WORKERS. A PROJECT OF CALIFORNIANS FOR FAIR PAY & EMPLOYER ACCOUNTABILITY",
+    "id": "1466423",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 813597,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING PRIVATE ATTORNEY GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "FORBES TATE PARTNERS LLC",
     "id": "1462570",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 58501.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 641; California Dept. of Public Health standing order on naloxone"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -1063,6 +1138,13 @@
     "id": "1426360",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 195.76,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Workforce Development Board - Displaced Oil and Gas Worker Fund Legislature - Repeal the Utility Tax"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 1487.11,
@@ -1248,6 +1330,19 @@
         "paymentsToInfluence": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "name": "MAHONEY LAW GROUP APC",
+    "id": "1466494",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "None this period."
       }
     ]
   },
@@ -1487,6 +1582,19 @@
     ]
   },
   {
+    "name": "POINT LOMA NAZARENE UNIVERSITY",
+    "id": "1399861",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "name": "POLICYLINK",
     "id": "1244005",
     "quarters": [
@@ -1510,6 +1618,13 @@
     "name": "PONDEROSA TELEPHONE COMPANY, THE",
     "id": "1396247",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6569.61,
+        "pucLobbying": 900,
+        "lobbiedOn": "CA PUBILC UTILITIES COMMISSION RE: A.22-09-003, R.23-02-016, R.20-02-008"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -1739,6 +1854,13 @@
     "id": "1256591",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 58289.93,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1228."
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 59494,
@@ -1921,6 +2043,13 @@
     "id": "1437356",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 572000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Decarbonization, Electric Vehicle incentives, SB 1383 implementation, AB 593, SB 795"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 10000,
@@ -1933,6 +2062,19 @@
         "paymentsToInfluence": 639850,
         "pucLobbying": 0,
         "lobbiedOn": "SB 1383, Electrification, regional transmission organization (RTO) legislation, decarbonization"
+      }
+    ]
+  },
+  {
+    "name": "SOMA AEC INC. DBA OXMAN COLLEGE",
+    "id": "1438340",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE, & GOVERNOR'S OFFICE RE: EMPLOYMENT TRAINING PANEL FUNDING."
       }
     ]
   },
@@ -2107,6 +2249,13 @@
     "id": "1460444",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 26673,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -2248,6 +2397,13 @@
     "id": "1396213",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5653.16,
+        "pucLobbying": 971,
+        "lobbiedOn": "CA PUBILC UTILITIES COMMISSION RE: R.23-02-016, R.20-02-008, A.22-09-003"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 4354.16,
@@ -2274,6 +2430,13 @@
     "name": "VOTE SOLAR",
     "id": "1380645",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 45467.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory Dockets: CPUC A. 22-05-022, CPUC R.20-08-020, CEC 23-SB-100"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
