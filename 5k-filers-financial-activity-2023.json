@@ -2243,6 +2243,19 @@
     ]
   },
   {
+    "name": "STAND",
+    "id": "1466584",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB252"
+      }
+    ]
+  },
+  {
     "name": "STANSBURY BROWN LAW, PC",
     "id": "1466609",
     "quarters": [
