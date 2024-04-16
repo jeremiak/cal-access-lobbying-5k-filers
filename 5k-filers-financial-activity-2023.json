@@ -711,6 +711,13 @@
     "id": "1439710",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7484.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "In support of general legislative subject matter concerning Article V of the U.S. Constitution"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 6025.92,
