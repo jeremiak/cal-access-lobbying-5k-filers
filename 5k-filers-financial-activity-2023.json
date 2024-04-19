@@ -1037,6 +1037,13 @@
     "id": "1405418",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3208.14,
+        "pucLobbying": 96,
+        "lobbiedOn": "? Legislature: AB 1588, 1826, 2221, 2239, and 2765. ? R.23-11-001 DDTP OIR"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 3134.52,
@@ -1321,6 +1328,13 @@
     "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405417",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3924.11,
+        "pucLobbying": 116,
+        "lobbiedOn": "Legislature: AB 1588, 1826, 2221, 2239, and 2765.  R.23-11-001 DDTP OIR"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
