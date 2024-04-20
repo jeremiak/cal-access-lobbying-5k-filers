@@ -2075,6 +2075,19 @@
     ]
   },
   {
+    "name": "SHEET METAL & AIR CONDITIONING CONTRACTORS ASSOCIATION OF SOUTHERN CALIFORNIA, INC.",
+    "id": "1468730",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature: Private Attorneys General Act (PAGA)"
+      }
+    ]
+  },
+  {
     "name": "SIERRA TELEPHONE COMPANY",
     "id": "1306660",
     "quarters": [
@@ -2159,6 +2172,13 @@
     "name": "SISKIYOU TELEPHONE COMPANY",
     "id": "1396090",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 4981.4,
+        "pucLobbying": 104,
+        "lobbiedOn": "Legislature: AB 1588, AB 1826, AB 2221, AB 2239, AB 2765. CA Public Utilities Commission: R.23-11-001 DDTP OIR."
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
