@@ -607,6 +607,19 @@
     ]
   },
   {
+    "name": "CENTRAL VALLEY GMC, DBA AFFINITY TRUCK CENTER",
+    "id": "1468223",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "CHP SPV 2 LLC",
     "id": "1463618",
     "quarters": [
@@ -1396,6 +1409,13 @@
     "id": "1396702",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 52145,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 460, AB 682, AB 754, AB 755, AB 1211, AB 1337, AB 1484, AB 1594, SB 23, SB 366, SB 676, SB 687, SB 867, AB 1820, AB 1827, AB 2257, SB 1072, SB 1169"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 39895.17,
@@ -1442,6 +1462,13 @@
     "name": "LEADERSHIP COUNSEL FOR JUSTICE AND ACCOUNTABILITY",
     "id": "1418369",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6711.36,
+        "pucLobbying": 0,
+        "lobbiedOn": "Air Resources Board - Low Carbon Fuel Standard; AB 2870; SB 1420; climate bond; hydrogen; Energy Commission - lithium"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -1528,6 +1555,13 @@
     "name": "MY FRIENDS",
     "id": "1417978",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7165.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's office re: Budget, Medi-Cal rates"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
