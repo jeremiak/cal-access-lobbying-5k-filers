@@ -2129,6 +2129,19 @@
     ]
   },
   {
+    "name": "SIERRA AUTO GROUP",
+    "id": "1468182",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "SIERRA TELEPHONE COMPANY",
     "id": "1306660",
     "quarters": [
@@ -2621,6 +2634,19 @@
         "paymentsToInfluence": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "name": "VESSEY AND COMPANY, INC.",
+    "id": "1468896",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "[P] FIX PAGA: A Better, fairer way for workers. A project of Californians for Fair Pay & Employer Accountability 455 Capitol Mall, Suite 600 Sacramento, CA 95814"
       }
     ]
   },
