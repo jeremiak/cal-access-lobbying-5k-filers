@@ -664,6 +664,13 @@
     "id": "1385218",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8476.15,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 13364.53,
@@ -764,6 +771,13 @@
     "name": "COURAGE CAMPAIGN",
     "id": "1373266",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9350,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Assembly Bills 83, 518, 742, 1160,1657,1986, 2034, 2041, 2127,2160, 2258, 2297, 2297, 2319, 2415, 2420, 2441, 2465, 2466, 2499,2646,2753,2785, 2833, 2870, 2956, 3127, 3129, 3161, 3170, 3221, 3260, 4, Senate Bills 294, 333, 729, 912, 954, 980, 1016, 1047, 1061, 1089, 1090, 1103, 1132, 1137,1193, 1201,1219, 1220, 1236, 1255, 1337, 1345, 1446, ACA8."
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -2400,6 +2414,13 @@
     "name": "STREETS FOR ALL",
     "id": "1466461",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8707.9,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2503, AB 2583, AB 2744, AB 2898, AB 3177, SB 1100, SB 1216, SB 1271, SB 960, SB 961"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
