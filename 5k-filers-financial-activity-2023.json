@@ -1031,6 +1031,13 @@
     "id": "1466423",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1022309.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING PRIVATE ATTORNEY GENERALS ACT (PAGA)."
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 813597,
@@ -1043,6 +1050,13 @@
     "name": "FORBES TATE PARTNERS LLC",
     "id": "1462570",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 81724.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Dept. of Public Health standing order on naloxone"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2207,6 +2221,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 18917.2,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - Metal recycling and the circular economy, AB 2851; Department of Toxic Substances Control - Metal recycling and the circular economy, Chemically Treated Metal Shredder Residue Regulations, AB 2851"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 27710.6,
@@ -2589,6 +2610,13 @@
     "id": "1441782",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7606.8,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - Metal recycling and the circular economy, AB 2851; Department of Toxic Substances Control - Metal recycling and the circular economy, Chemically Treated Metal Shredder Residue Regulations, AB 2851"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 10071.6,
@@ -2667,7 +2695,7 @@
         "session": "2023-2024",
         "paymentsToInfluence": 5000,
         "pucLobbying": 0,
-        "lobbiedOn": "[P] FIX PAGA: A Better, fairer way for workers. A project of Californians for Fair Pay & Employer Accountability 455 Capitol Mall, Suite 600 Sacramento, CA 95814"
+        "lobbiedOn": "California State Legislature regarding: Private Attorneys General Act (PAGA)"
       }
     ]
   },
