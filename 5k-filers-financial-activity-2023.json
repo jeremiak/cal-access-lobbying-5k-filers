@@ -17,6 +17,13 @@
     "id": "1441821",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 255852.08,
+        "lobbiedOn": "AB 1999"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -471,6 +478,13 @@
     "id": "1415491",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 18750,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 549"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 29600,
@@ -523,6 +537,13 @@
     "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
     "id": "1368757",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1380825,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -690,6 +711,13 @@
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15327.85,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q1:"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -959,6 +987,13 @@
     "id": "1463608",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1999"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -1101,7 +1136,7 @@
       {
         "quarter": "3rd",
         "session": "2023-2024",
-        "paymentsToInfluence": 0,
+        "paymentsToInfluence": 3134.52,
         "pucLobbying": 26333.5,
         "lobbiedOn": "Legislature: AB 41, 662, and 965. R.23-02-016 Order Instituting Rulemaking Proceeding to Consider Rules to Implement the Broadband Equity, Access, and Deployment Program;  A.22-11-001 In the Matter of Application of Foresthill Telephone Co. (U 1009 C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates;"
       },
@@ -1628,6 +1663,32 @@
     ]
   },
   {
+    "name": "NATIONAL CITIZENS AGAINST LAWSUIT ABUSE",
+    "id": "1468790",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5157.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "Lawsuit Abuse Issues -- Legislature"
+      }
+    ]
+  },
+  {
+    "name": "NATIONAL DOMESTIC WORKERS ALLIANCE",
+    "id": "1448835",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "name": "NATIONAL RESTAURANT ASSOCIATION",
     "id": "1444120",
     "quarters": [
@@ -1786,6 +1847,13 @@
     "id": "1461948",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 14280.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 7964.57,
@@ -1882,6 +1950,19 @@
     ]
   },
   {
+    "name": "PROTECT CALIFORNIA HEALTH CARE",
+    "id": "1447066",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 310250,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 2200."
+      }
+    ]
+  },
+  {
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
@@ -1972,6 +2053,19 @@
         "paymentsToInfluence": 7548,
         "pucLobbying": 0,
         "lobbiedOn": "LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL RATES, BUDGET"
+      }
+    ]
+  },
+  {
+    "name": "SACRAMENTO RIVER SETTLEMENT CONTRACTORS",
+    "id": "1468391",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 49507,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 460, AB 1337 AND SB 389."
       }
     ]
   },
@@ -2674,6 +2768,19 @@
     ]
   },
   {
+    "name": "VAN NUYS CHRYSLER DODGE JEEP RAM",
+    "id": "1468691",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "VANGUARD UNIVERSITY OF SOUTHERN CALIFORNIA",
     "id": "1392157",
     "quarters": [
@@ -2751,6 +2858,13 @@
     "id": "1380645",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 66967.7,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory Dockets: CPUC A. 22-05-022, CPUC R.21-06-017, CPUC R.22-07-005, CPUC R.23-12-008, CEC 23-SB-100, SB 100"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 45467.5,
@@ -2770,6 +2884,19 @@
         "paymentsToInfluence": 65159.12,
         "pucLobbying": 0,
         "lobbiedOn": "Regulatory Dockets: CPUC A. 22-05-022, CPUC R.21-06-017, CPUC R.19-09-009, CPUC R.20-08-020, CPUC Draft Resolution M-4868"
+      }
+    ]
+  },
+  {
+    "name": "WALNUT CREEK HONDA",
+    "id": "1468689",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
       }
     ]
   },
