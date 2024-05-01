@@ -58,6 +58,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 75250,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1570"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 32500,
@@ -84,6 +91,13 @@
     "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
     "id": "1439791",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5123.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -177,6 +191,19 @@
         "paymentsToInfluence": 25000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)"
+      }
+    ]
+  },
+  {
+    "name": "BETAT ADVISORIES LLC",
+    "id": "1468012",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE, & GOVERNOR'S OFFICE RE: EMPLOYMENT TRAINING PANEL FUNDING."
       }
     ]
   },
@@ -331,6 +358,13 @@
     "id": "1405445",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3484.86,
+        "pucLobbying": 646,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: R.23-11-001, A.23-10-007  "
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 3220.93,
@@ -404,6 +438,13 @@
     "id": "1418078",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 120850.04,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE AND OFFICE OF THE GOVERNOR RE: AB 247, 1780, 1805, 1821, 1930, 1939, 2071, 2074, 2097, 2134, 2173, 2222, 2226, 2254, 2953; SB 28, 907, 939, 991, 1056, 1115, 1244, 1263 1380, 1391, 1409, 1477, BUDGET ISSUES, STATE BOND ISSUES"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 99583.05,
@@ -437,6 +478,13 @@
     "name": "CALIFORNIA ENDOWMENT; THE",
     "id": "1302208",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 125000,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -887,6 +935,13 @@
     "id": "1354858",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 38816,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature - Metal recycling and the circular economy, AB 2851; Department of Toxic Substances Control - Metal recycling and the circular economy, Chemically Treated Metal Shredder Residue Regulations, AB 2851"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 31600.72,
@@ -919,6 +974,13 @@
     "name": "EDUCATION COALITION; THE",
     "id": "1303365",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9999.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2024."
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -1336,6 +1398,19 @@
     ]
   },
   {
+    "name": "HERRERA & COMPANY",
+    "id": "1438339",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE, & GOVERNOR'S OFFICE RE: EMPLOYMENT TRAINING PANEL FUNDING."
+      }
+    ]
+  },
+  {
     "name": "HEWLETT FOUNDATION; THE WILLAM AND FLORA",
     "id": "1302211",
     "quarters": [
@@ -1445,6 +1520,19 @@
         "paymentsToInfluence": 3941.57,
         "pucLobbying": 2588.37,
         "lobbiedOn": "R.22-03-016 Order Instituting Rulemaking Proceeding to Consider Amendments to General Order 133 A.22-09-003 Application of Kerman Telephone Co. (U1012C) In the Matter of Application of Kerman Telephone Co. (U1012C) to Modify Intrastate Revenue Requirement and Rate Design and Adjust Selected Rates. Legislature: AB 41, 286, 662, 1461, 1588, 1714; and SB 754, 860"
+      }
+    ]
+  },
+  {
+    "name": "KINGDON CAPITAL MANAGEMENT LLC",
+    "id": "1468945",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 17500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
       }
     ]
   },
@@ -1585,6 +1673,13 @@
     "name": "MILLION VOTER PROJECT ACTION FUND",
     "id": "1460004",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 37687.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 567"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -1887,6 +1982,13 @@
     "id": "1244005",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7510.3,
+        "pucLobbying": 0,
+        "lobbiedOn": "ACA 10; Legislature: Community Economic Resilience Fund pilot, state budget; California Department of Transportation: California Green New Deal Coalition"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 7400,
@@ -1941,6 +2043,13 @@
     "id": "1438337",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE, & GOVERNOR'S OFFICE RE: EMPLOYMENT TRAINING PANEL FUNDING."
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 5000,
@@ -1966,6 +2075,13 @@
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 13293,
+        "pucLobbying": 0,
+        "lobbiedOn": "CDE;CPAG;CTC;DOF;Governor's Ofc;HCD;SBE;Assemblymembers Alvarez,Bonta,Bryan,Carillo,Fong,Friedman,Grayson,McCarty,McKinnor,Muratsachi;Senators Ashby,Atkins,Becker,Blakespear,Bradford,Caballero,Dodd,Durazo,Glazer,Gonzalez,Laird,Limon,McGuire,Newman,Padilla,Portantino,Santiago,Umberg,Wahab,Ward,Wiener"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2134,6 +2250,13 @@
     "id": "1276614",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10510.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 2157, AB 2200, AB 2767, SB 1432. Department of Health Care Access and Information re: Office of Health Care Affordability, Health Care Payments Database."
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 64764.84,
@@ -2167,6 +2290,13 @@
     "name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
     "id": "1256591",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7978.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Industrial Relations (Fast Food Council): better wages and standards for fast food workers."
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2222,6 +2352,13 @@
     "id": "1302175",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 26739.17,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Budget - Developmental Disabilities, In-Home Supportive Services; CA Public Utilities Commission: Implementation of Clean Miles Standard Program"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 32085.07,
@@ -2267,6 +2404,13 @@
     "name": "SIERRA TELEPHONE COMPANY",
     "id": "1306660",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9589.77,
+        "pucLobbying": 202,
+        "lobbiedOn": "Legislature: AB 1588, 1826, 2221, 2239, and 2765 State: R.23-11-001 DDTP OIR"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2396,6 +2540,13 @@
     "name": "SIXTEEN THIRTY FUND",
     "id": "1437356",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Building electrification, decarbonization"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2546,6 +2697,19 @@
     ]
   },
   {
+    "name": "SUPERBAG OPERATING, LTD.",
+    "id": "1333463",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 150000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 817, 2236; SB 397, 1053"
+      }
+    ]
+  },
+  {
     "name": "SURFRIDER FOUNDATION",
     "id": "1396237",
     "quarters": [
@@ -2610,6 +2774,13 @@
     "id": "1461990",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1234 AB 1234 AB 1234 SB 1201 SB 1030 SB 1137 SB 1201 AB 2930 AB 1814"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -2630,6 +2801,13 @@
     "id": "1438336",
     "quarters": [
       {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE, & GOVERNOR'S OFFICE RE: EMPLOYMENT TRAINING PANEL FUNDING."
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 5000,
@@ -2642,6 +2820,13 @@
     "name": "THE PROTECT OUR COMMUNITIES FOUNDATION",
     "id": "1460444",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 25424,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2943,6 +3128,13 @@
     "name": "WOMEN'S FOUNDATION OF CALIFORNIA",
     "id": "1265164",
     "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6075.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2136, 2527, 2759, 2785."
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
