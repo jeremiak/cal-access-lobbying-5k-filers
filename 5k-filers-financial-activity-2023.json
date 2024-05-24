@@ -2776,14 +2776,14 @@
       {
         "quarter": "5th",
         "session": "2023-2024",
-        "paymentsToInfluence": 0,
+        "paymentsToInfluence": 10700.11,
         "pucLobbying": 0,
-        "lobbiedOn": "AB 1234 AB 1234 AB 1234 SB 1201 SB 1030 SB 1137 SB 1201 AB 2930 AB 1814"
+        "lobbiedOn": "AB 1234 SB 1201 SB 1030 SB 1137 SB 1201 AB 2930 AB 1814 AB 2741, SB 892"
       },
       {
         "quarter": "4th",
         "session": "2023-2024",
-        "paymentsToInfluence": 0,
+        "paymentsToInfluence": 669.88,
         "pucLobbying": 0,
         "lobbiedOn": ""
       },
