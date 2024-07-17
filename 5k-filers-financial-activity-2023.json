@@ -17,6 +17,13 @@
     "id": "1441821",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 216465,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1999"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -1068,6 +1075,13 @@
     "name": "ENVIRONMENTAL JUSTICE COALITION FOR WATER",
     "id": "1463608",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -2554,6 +2568,13 @@
     "id": "1396090",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3235.4,
+        "pucLobbying": 1460,
+        "lobbiedOn": "SEE Form 645 Attachment."
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 4981.4,
@@ -2780,6 +2801,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
