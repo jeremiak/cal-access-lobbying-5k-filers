@@ -319,6 +319,13 @@
     "id": "1444222",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 10000,
@@ -485,6 +492,19 @@
         "paymentsToInfluence": 112996.49,
         "pucLobbying": 0,
         "lobbiedOn": "STATE LEGISLATURE REGARDING: AB 247, AB 278, AB 480, AB 610, AB 1078, AB 1604, SB 10, SB 28, SB 98, SB 307, SB 426, SB 445, SB 499, SB 739, SB 810.  GOVERNOR?S OFFICE, DEPARTMENT OF FINANCE AND STATE BOARD OF EDUCATION REGARDING:  SB 740 PROGRAM, HOLD HARMLESS, RENEWAL RELIEF."
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA CONSUMER ADVOCATES FOR AFFORDABILITY AND SAFETY",
+    "id": "1470427",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10660,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA Legislature regarding the Safer California Retail Theft Package, including AB 1794, AB 1802, AB 1960, AB 1972, AB 2943, AB 3209, SB 905, SB 1242, SB 1144, SB 1416"
       }
     ]
   },
@@ -713,6 +733,13 @@
     "name": "CHP SPV 2 LLC",
     "id": "1463618",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -1609,6 +1636,13 @@
     "name": "KINGDON CAPITAL MANAGEMENT LLC",
     "id": "1468945",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
