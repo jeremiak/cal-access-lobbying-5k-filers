@@ -1639,9 +1639,9 @@
       {
         "quarter": "6th",
         "session": "2023-2024",
-        "paymentsToInfluence": 10000,
+        "paymentsToInfluence": 0,
         "pucLobbying": 0,
-        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+        "lobbiedOn": "NONE THIS PERIOD."
       },
       {
         "quarter": "5th",
@@ -1760,6 +1760,19 @@
     ]
   },
   {
+    "name": "LEGAL AID AT WORK",
+    "id": "1396214",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 18719.44,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 518; AB 2123; AB 2167; AB 2288; AB 2499; AB 2704; AB 2759; AB 3235; SB 1022; SB 1030; SB 1090; SB 1137; SB 1201; SB 1345; EDD re: foster care certification issue, language access, PFL application processes; Advocated for clarity on ?statements of interest? from CRD in support of their applications to the Department of Homeland Security for deferred action."
+      }
+    ]
+  },
+  {
     "name": "LIFE PACIFIC UNIVERSITY",
     "id": "1392095",
     "quarters": [
@@ -1836,6 +1849,13 @@
     "name": "MY FRIENDS",
     "id": "1417978",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6604.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1451; Legislature, Governor's office re: Budget, Medi-Cal rates"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -2272,6 +2292,13 @@
     "name": "RIDGELINE PEDIATRIC",
     "id": "1461909",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10047,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1451; Legislature, Governor's office re: Budget, Medi-Cal rates"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -2998,6 +3025,13 @@
     "name": "TOGETHER WE GROW",
     "id": "1417976",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8925,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1451; Legislature, Governor's office re: Budget, Medi-Cal rates"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
