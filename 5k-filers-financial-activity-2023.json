@@ -781,6 +781,13 @@
     "id": "1385218",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 14440.56,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 8476.15,
@@ -916,6 +923,13 @@
     "id": "1373266",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 49250,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 9350,
@@ -961,6 +975,19 @@
         "paymentsToInfluence": 24500,
         "pucLobbying": 24500,
         "lobbiedOn": "AB 604"
+      }
+    ]
+  },
+  {
+    "name": "DIGIMARC CORPORATION",
+    "id": "1471660",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15323.79,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 3211"
       }
     ]
   },
@@ -1452,6 +1479,13 @@
     "id": "1397853",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 59462.31,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 71961.07,
@@ -1810,6 +1844,19 @@
         "paymentsToInfluence": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "name": "LOYOLA MARYMOUNT UNIVERSITY",
+    "id": "1471516",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 20275.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 998, SB 1157, AB 1888, Budget."
       }
     ]
   },
