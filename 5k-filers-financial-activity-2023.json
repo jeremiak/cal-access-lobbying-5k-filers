@@ -140,6 +140,13 @@
     "id": "1439715",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 11680.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: ACA 8, AB 2441, ACA 10, budget request for Public Defense Pilot Program Funding."
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 7773.32,
@@ -586,6 +593,19 @@
         "paymentsToInfluence": 5400,
         "pucLobbying": 0,
         "lobbiedOn": "SB 549"
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA JEWISH LEGISLATIVE CAUCUS LEADERSHIP FOUNDATION",
+    "id": "1471704",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 1277, SB 1421, SB 1287, AB 2925, SB 1504, AB 1979, AB 3024, SB 85."
       }
     ]
   },
@@ -1243,6 +1263,13 @@
     "name": "FIX PAGA: A BETTER, FAIRER WAY FOR WORKERS. A PROJECT OF CALIFORNIANS FOR FAIR PAY & EMPLOYER ACCOUNTABILITY",
     "id": "1466423",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 642354.35,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 288, SB 92, PRIVATE ATTORNEY GENERALS ACT (PAGA)."
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
