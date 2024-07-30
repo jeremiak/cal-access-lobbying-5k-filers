@@ -1,5 +1,18 @@
 [
   {
+    "name": "ACLU OF SAN DIEGO AND IMPERIAL COUNTIES",
+    "id": "1471967",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 13889.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "ACA 8, ACA 10, AB 2441; Legislature: Budget Advocacy, Pilot Program Defense Funding"
+      }
+    ]
+  },
+  {
     "name": "ALL ONE GOD FAITH, INC. D/B/A/ DR. BRONNER'S MAGIC SOAP",
     "id": "1450269",
     "quarters": [
@@ -646,6 +659,13 @@
     "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
     "id": "1368757",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3470760,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -1826,6 +1846,13 @@
     "id": "1418369",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15633.46,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2870, AB 2204, SB 1420, SB 1204, state budget, California Air Resources Board - Low Carbon Fuel Standard"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 6711.36,
@@ -2166,6 +2193,13 @@
     "name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
     "id": "1378843",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 11003.73,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 492, AB 2442, SB 959, AB 2339, SB 1131, AB 2085, AB 2099"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
