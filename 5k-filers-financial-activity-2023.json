@@ -309,6 +309,32 @@
     ]
   },
   {
+    "name": "BOARDWALK AUTO CENTER",
+    "id": "1471888",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
+    "name": "BOARDWALK CARS",
+    "id": "1471883",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "BOLTON, AN IMA COMPANY",
     "id": "1461483",
     "quarters": [
@@ -587,6 +613,13 @@
     "id": "1415491",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 37771.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 549"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 18750,
@@ -764,6 +797,19 @@
     ]
   },
   {
+    "name": "CENTER ON RACE, POVERTY & THE ENVIRONMENT",
+    "id": "1472084",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 11068,
+        "pucLobbying": 0,
+        "lobbiedOn": "ACA 16, AB 3233, SB 1433, AB 2870, SB 1497, AB 3258, SB 674, SB 252, AB 3155, SB 1420, AB 1866, SB 2716, AB 3136, AB 1864, SB 1227, AB 2113, AB 2243, AB 1418"
+      }
+    ]
+  },
+  {
     "name": "CENTRAL VALLEY GMC, DBA AFFINITY TRUCK CENTER",
     "id": "1468223",
     "quarters": [
@@ -854,6 +900,13 @@
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 20037.27,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q2:"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -1113,6 +1166,19 @@
     ]
   },
   {
+    "name": "EDISON ELECTRIC INSTITUTE",
+    "id": "1235638",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8359.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1999, SB 253, SB 261."
+      }
+    ]
+  },
+  {
     "name": "EDUCATION COALITION; THE",
     "id": "1303365",
     "quarters": [
@@ -1303,6 +1369,19 @@
         "paymentsToInfluence": 813597,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING PRIVATE ATTORNEY GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
+    "name": "FONTANA MAZDA",
+    "id": "1470733",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
       }
     ]
   },
@@ -1670,6 +1749,19 @@
         "paymentsToInfluence": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
+      }
+    ]
+  },
+  {
+    "name": "J K COMMERCE",
+    "id": "1471885",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
       }
     ]
   },
@@ -2116,6 +2208,19 @@
     ]
   },
   {
+    "name": "NORTHRIDGE TOYOTA",
+    "id": "1471787",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "OLIVIER& SCHREIBER LLP",
     "id": "1466606",
     "quarters": [
@@ -2159,6 +2264,19 @@
         "paymentsToInfluence": 6000,
         "pucLobbying": 0,
         "lobbiedOn": "1. 17 CCR ?? 93130-93130.22 - Control Measure for Ocean-Going Vessels At Berth (2020 Regulation)  2. Urging California Air Resources Board to start a new regulation that sets a zero-emission shipping standard for  Ocean Going Vessels by 2040"
+      }
+    ]
+  },
+  {
+    "name": "PATTERSON AUTOS",
+    "id": "1471921",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
       }
     ]
   },
@@ -2213,6 +2331,13 @@
     "name": "PLANNED PARENTHOOD OF ORANGE & SAN BERNARDINO COUNTIES",
     "id": "1461948",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 14280.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 492, 2085, 2099, 2339, 2442; SB 959, 1131. Legislature: Project Rainbow"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -2347,6 +2472,13 @@
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 41048,
+        "pucLobbying": 0,
+        "lobbiedOn": "CDE;CPAG;CTC;Governor's Ofc;HCD;SBE;Secy of State;Assemblymembers Addis,Alvarez,Ball,Berman,Bonta,Gabriel,Garcia,Grayson,Kalra,Lee,Low,McCarty,Muratsachi,Papan,Reyes,Rivas,Ting,Wicks,Wilson,Wood;Senators Ashby,Becker,Cortese,Dodd,Glazer,Gomez,Gonzalez,Haney,Jackson,Laird,McGuire,Ochoa Bogh,Padilla,Roth,Skinner,Wahab,Wiener (cont'd below)"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -2485,6 +2617,19 @@
     ]
   },
   {
+    "name": "SANTA BARBARA HONDA",
+    "id": "1471783",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "SAVE LOCAL RESTAURANTS",
     "id": "1459886",
     "quarters": [
@@ -2528,6 +2673,13 @@
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 64155.96,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: SB 1432, AB 3129, AB 2200, AB 2271, AB 869, AB 2157. Dept. of Health Care Access and Information re: Office of Health Care Affordability and Health Care Payments Database."
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -2957,6 +3109,19 @@
     ]
   },
   {
+    "name": "STEVE HOPKINS, INC.",
+    "id": "1471041",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "STOP SB 525",
     "id": "1461979",
     "quarters": [
@@ -2980,6 +3145,13 @@
     "name": "STREETS FOR ALL",
     "id": "1466461",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 22291.27,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2503, AB 2583, AB 2744, AB 2898, AB 3177, SB 1100, SB 1216, SB 1271, SB 960, SB 961; Legislature: State Budget, I-80 Widening Project."
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -3199,6 +3371,19 @@
     ]
   },
   {
+    "name": "TOYOTA OF SANTA BARBARA",
+    "id": "1471785",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
     "name": "UNIVERSAL SERVICE RECYCLING, INC.",
     "id": "1441782",
     "quarters": [
@@ -3363,6 +3548,13 @@
     "name": "VOTE SOLAR",
     "id": "1380645",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 106641.59,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory Dockets: CPUC: R.22-11-013, A.22-05-022, R.23-12-008, R.21-06-017 and R.22-07-002 CEC-24-SB 100 Legislative: SB 1374, SB 59 and AB 3111"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
