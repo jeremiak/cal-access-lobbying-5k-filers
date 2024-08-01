@@ -78,6 +78,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 70900,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1570"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 75250,
@@ -111,6 +118,13 @@
     "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
     "id": "1439791",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 34993.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -432,6 +446,13 @@
     "id": "1405445",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 4659.72,
+        "pucLobbying": 2320,
+        "lobbiedOn": "o\tAB 1588, 2221, 2239, 2575, 2683, 2765, 2930, 3179, 3186; SB 424, 1460; CA PUBLIC UTILITIES COMMISSION RE: A. 22-09-003, A. 23-10-007"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 3484.86,
@@ -473,6 +494,13 @@
     "id": "1396091",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2945.46,
+        "pucLobbying": 4751,
+        "lobbiedOn": "AB 1588, 2221, 2239, 2575, 2683, 2765, 2930, 3179, 3186; SB 424, 1460; CA PUBLIC UTILITIES COMMISSION RE: A.22-09-003, A.23-11-011"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 2635.87,
@@ -511,6 +539,13 @@
     "name": "CALIFORNIA CHARTER SCHOOLS ASSOCIATION",
     "id": "1418078",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 132749.31,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE, DEPARTMENT OF FINANCE AND OFFICE OF THE GOVERNOR RE: AB 2254, SB 907, 991, 1244, 1380, 1409, 1477; CALIFORNIA STATE LEGISLATURE RE: AB 247, 1780, 1821, 1930, 2046, 2071, 2173, 2226, 2953, SB 98, 445, 939, 1056, 1115, 1181, 1263, 1391"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -730,6 +765,19 @@
     ]
   },
   {
+    "name": "CALIFORNIANS TO PROTECT COMMUNITY HEALTHCARE",
+    "id": "1471971",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 583122.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 3129"
+      }
+    ]
+  },
+  {
     "name": "CALIFORNIANS TO PROTECT LOCAL JOBS",
     "id": "1461796",
     "quarters": [
@@ -746,6 +794,19 @@
         "paymentsToInfluence": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: SB 549"
+      }
+    ]
+  },
+  {
+    "name": "CALIIFORNIA ENVIIRONMENTAL VOTERS EDUCATION FUND",
+    "id": "1472227",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 16076.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "Educational events. "
       }
     ]
   },
@@ -846,6 +907,19 @@
         "paymentsToInfluence": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      }
+    ]
+  },
+  {
+    "name": "CLEANING COALITION OF AMERICA",
+    "id": "1472133",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 143750,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2364"
       }
     ]
   },
@@ -1046,6 +1120,19 @@
     ]
   },
   {
+    "name": "CROWN POLY, INC.",
+    "id": "1471894",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 817, 2236; SB 397, 1053"
+      }
+    ]
+  },
+  {
     "name": "D.LAW, INC.",
     "id": "1466598",
     "quarters": [
@@ -1088,6 +1175,13 @@
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8000,
+        "pucLobbying": 2687,
+        "lobbiedOn": "CA PUBILC UTILITIES COMMISSION RE: A.22-09-003, A.23-10-008"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -1668,6 +1762,19 @@
     ]
   },
   {
+    "name": "HAWTHORNE MACHINERY CO",
+    "id": "1472162",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 2288, SB 92, PRIVATE ATTORNEYS GENERAL ACT (PAGA)"
+      }
+    ]
+  },
+  {
     "name": "HERRERA & COMPANY",
     "id": "1438339",
     "quarters": [
@@ -1710,6 +1817,19 @@
         "paymentsToInfluence": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
+    "name": "HOLT OF CALIFORNIA",
+    "id": "1472009",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -1921,6 +2041,19 @@
     ]
   },
   {
+    "name": "LATINO CAUCUS OF CALIFORNIA COUNTIES PAC",
+    "id": "1471110",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 30600,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 3238"
+      }
+    ]
+  },
+  {
     "name": "LAVI & EBRAHIMIAN, LLP",
     "id": "1466603",
     "quarters": [
@@ -2063,6 +2196,19 @@
         "paymentsToInfluence": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA DEPARTMENT OF INSURANCE RE: ISSUES RELATED TO THE CRISIS INAVAILABILITY OF PROPERTY AND AUTO INSURANCE"
+      }
+    ]
+  },
+  {
+    "name": "MUEHLHAUSER; LUKE",
+    "id": "1471513",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 68870,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1047"
       }
     ]
   },
@@ -2285,6 +2431,13 @@
     "id": "1419888",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 21838,
+        "pucLobbying": 0,
+        "lobbiedOn": "ACA 1, 10; SB 333"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 10471.49,
@@ -2405,6 +2558,13 @@
     "name": "PONDEROSA TELEPHONE COMPANY, THE",
     "id": "1396247",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7668.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1588, 2221, 2239, 2575, 2683, 2765, 2930, 3179, 3186; SB 424, 1460; CA PUBILC UTILITIES COMMISSION RE: A.22-09-003, A.24-02-013"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -2661,6 +2821,13 @@
     "id": "1397628",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 27090.76,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
         "quarter": "2nd",
         "session": "2023-2024",
         "paymentsToInfluence": 363967.1,
@@ -2782,6 +2949,13 @@
     "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC",
     "id": "1302175",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 65395.55,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2975, 2889; SB 1451; Legislature: Budget - Developmental Disabilities, In-Home Supportive Services, Family Urgent Response System"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -2992,6 +3166,13 @@
     "name": "SIXTEEN THIRTY FUND",
     "id": "1437356",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 818000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 593, AB 2083, SB 993, SB 1018, AB 2535, Decarbonization, California Budget, Climate Bond"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -3276,6 +3457,19 @@
     ]
   },
   {
+    "name": "TECHEQUITY COLLABORATIVE",
+    "id": "1472155",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 17248.56,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1814 SB 892 AB 3211 AB 2655 AB 2839 SB 1061 SB 1220 SB 333 AB 2930 SB 1089 SB 1201 AB 2499 SB 1090 SB 1137 SB 1022 AB 1916 SB 1345 AB 2347 AB 2926 AB 2016 AB 2801 ACA 10"
+      }
+    ]
+  },
+  {
     "name": "TFP GROUP, INC. DBA TRAINING FUNDING PARTNERS",
     "id": "1438336",
     "quarters": [
@@ -3299,6 +3493,13 @@
     "name": "THE PROTECT OUR COMMUNITIES FOUNDATION",
     "id": "1460444",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 35397,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
@@ -3436,6 +3637,13 @@
     "id": "1396377",
     "quarters": [
       {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 27013.2,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 21775,
@@ -3514,6 +3722,13 @@
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2400.95,
+        "pucLobbying": 1936,
+        "lobbiedOn": "o\tAB 1588, 2221, 2239, 2575, 2683, 2765, 2930, 3179, 3186; SB 424, 1460; CA PUBILC UTILITIES COMMISSION RE: A.22-09-003"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -3641,6 +3856,13 @@
     "name": "WOMEN'S FOUNDATION OF CALIFORNIA",
     "id": "1265164",
     "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 21783.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2136, 2527, 2759, 2785."
+      },
       {
         "quarter": "5th",
         "session": "2023-2024",
