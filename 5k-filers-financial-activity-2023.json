@@ -2427,6 +2427,19 @@
     ]
   },
   {
+    "name": "PETERSON HOLDING",
+    "id": "1472353",
+    "quarters": [
+      {
+        "quarter": "5th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 60000,
+        "lobbiedOn": "FIX PAGA: A better, fairer way for workers. A project of Californians for Fair Pay & Employer Accountability"
+      }
+    ]
+  },
+  {
     "name": "PICO CALIFORNIA",
     "id": "1419888",
     "quarters": [
@@ -2673,6 +2686,19 @@
         "paymentsToInfluence": 12270,
         "pucLobbying": 0,
         "lobbiedOn": "CDE;CTC;DOF;Governor's Ofc;LAO;SBE;Assemblymembers Arambula,Bennett,Bonta,Carrillo,Fong,Gabriel,Haney,Jones-Sawyer,Kalra,McCarty,McKinnor,Quirk-Silva,Rivas,Santiago,Schiavo,Ta,Ting,Ward,Weber;Senators Allen,Atkins,Blakespear,Caballero,Cortese,Durazo,Glazer,Gonzalez,McGuire,Menjivar,Newman,Seyarto,Skinner,Umberg,Wahab,Weiner,Wilk"
+      }
+    ]
+  },
+  {
+    "name": "QUINN CAT",
+    "id": "1472360",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 60000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2288; SB 92; LEGISLATURE: PRIVATE ATTORNEYS GENERAL ACT (PAGA)"
       }
     ]
   },
