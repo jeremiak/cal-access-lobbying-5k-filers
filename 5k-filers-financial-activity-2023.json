@@ -2690,6 +2690,19 @@
     ]
   },
   {
+    "name": "PUBLIC COUNSEL",
+    "id": "1407570",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6247.62,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 227, SB 245, SB 278, SB 1090, SB 1123, SB 1126, SB 1134, SB 1197, SB 1345, SB 1385, SB 1434, AB 311, AB 518, AB 1090, AB 1893, AB 1950, AB 1955, AB 2053, AB 2120, AB 2123, AB 2160, AB 2176, AB 2347, AB 2351, AB 2441, AB 2477, AB 2499, AB 2744, AB 2802, AB 2830, AB 2901, AB 2926, AB 2929, AB 2993"
+      }
+    ]
+  },
+  {
     "name": "QUINN GROUP, INC.",
     "id": "1472360",
     "quarters": [
@@ -3836,6 +3849,19 @@
         "paymentsToInfluence": 5000,
         "pucLobbying": 0,
         "lobbiedOn": "CALIFORNIA STATE LEGISLATURE AND GOVERNOR'S OFFICE REGARDING: PRIVATE ATTORNEYS GENERAL ACT (PAGA)."
+      }
+    ]
+  },
+  {
+    "name": "WELLSPRING ASSOCIATES, INC.",
+    "id": "1473850",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "4 Month Special Assessment - CA Cardiology Campaign Lobbying Expenses"
       }
     ]
   },
