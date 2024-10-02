@@ -30,6 +30,13 @@
     "id": "1441821",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 216465,
@@ -1579,6 +1586,13 @@
     "name": "FRESNO IRRIGATION DISTRICT",
     "id": "1401352",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 26878,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
