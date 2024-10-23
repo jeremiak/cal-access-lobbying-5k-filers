@@ -2714,6 +2714,13 @@
     "id": "1357454",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9920,
+        "pucLobbying": 0,
+        "lobbiedOn": "CDE;HCD;SBE;Assemblymembers Alvarez,Senators Cortese,Gonzalez,Wahab;ABs 247 705 846 1705 1893 2222 2403 2441 2667 2801 3127;SBs 555 1446;Asm HiEd Comm; Asm Housing Comm;Senate Education Comm;Tax Credit Allocation Comm;Sonoma County Board of Supervisors;AC Transit Board;Californians for College Affordability Coalition;CASH Coalition;CTA;LCFF Equity Coalition;Oakland Mayor's ofc;PFL;"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 41048,
