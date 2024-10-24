@@ -882,6 +882,13 @@
     "id": "1472084",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7878,
+        "pucLobbying": 0,
+        "lobbiedOn": "ACA 16, SB 935, SB 1143, AB 3258, AB 2113, SB 1497, AB 3233, SB 1433, SB 2716, SB 1420, AB 1866, SB 308, AB 2745, AB 98, ABX2-8, ABX2-1, AB 1864, AB 3258, AB 1893, SB 673, AB 2243, SB 422, AB 3258"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 11068,
@@ -1358,6 +1365,13 @@
     "id": "1455996",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5441.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 5381.64,
@@ -1510,6 +1524,13 @@
     "name": "FORBES TATE PARTNERS LLC",
     "id": "1462570",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 82875.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Dept. of Public Health standing order on naloxone"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -2815,6 +2836,13 @@
     "id": "1392082",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7344.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 7880.31,
@@ -3191,6 +3219,13 @@
     "name": "SIMS METAL MANAGEMENT",
     "id": "1318031",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 75946.08,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control and Legislature:  Chemically Treated Metal Shredder Residue Regulations; AB 2851, SB 1234."
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
