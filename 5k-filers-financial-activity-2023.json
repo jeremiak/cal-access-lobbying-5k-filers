@@ -1113,6 +1113,19 @@
     ]
   },
   {
+    "name": "COUNCIL FOR CITIZENS AGAINST GOVERNMENT WASTE",
+    "id": "1476501",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "S.B. 966"
+      }
+    ]
+  },
+  {
     "name": "COURAGE CAMPAIGN",
     "id": "1373266",
     "quarters": [
@@ -2289,6 +2302,19 @@
     ]
   },
   {
+    "name": "MOURIER CONSTRUCTION, INC. ET AL; JOHN",
+    "id": "1220086",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NA"
+      }
+    ]
+  },
+  {
     "name": "MUEHLHAUSER; LUKE",
     "id": "1471513",
     "quarters": [
@@ -2305,6 +2331,13 @@
     "name": "MY FRIENDS",
     "id": "1417978",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6685,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1451; Legislature, Governor's office re: Budget, Medi-Cal rates"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -2869,6 +2902,13 @@
     "name": "RIDGELINE PEDIATRIC",
     "id": "1461909",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5023.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1451; Legislature, Governor's office re: Budget, Medi-Cal rates"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
