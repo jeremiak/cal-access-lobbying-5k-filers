@@ -964,9 +964,29 @@
     ]
   },
   {
+    "name": "COHEN ADVOCACY",
+    "id": "1476505",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 43868,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
     "name": "COMMUNITY PARTNERS",
     "id": "1385218",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 8476.15,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -1129,6 +1149,13 @@
     "name": "COURAGE CAMPAIGN",
     "id": "1373266",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12950,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
