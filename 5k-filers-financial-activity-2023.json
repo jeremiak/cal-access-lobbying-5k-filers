@@ -214,6 +214,13 @@
     "id": "1435863",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 15000,
@@ -260,6 +267,13 @@
     "id": "1399830",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 15000,
@@ -272,6 +286,13 @@
     "name": "BLUE SHIELD OF CALIFORNIA FOUNDATION",
     "id": "1439197",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15405,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -439,6 +460,13 @@
     "name": "BURKE WILLIAMS DAY SPA",
     "id": "1461962",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 19384.61,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -634,6 +662,13 @@
     "name": "CALIFORNIA ENERGY AND INFRASTRUCTURE LABOR MANAGEMENT COOPERATION TRUST",
     "id": "1439949",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1230000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABX2-1"
+      },
       {
         "quarter": "2nd",
         "session": "2023-2024",
@@ -1069,6 +1104,13 @@
     "name": "CONCORDIA UNIVERSITY IRVINE",
     "id": "1392096",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -1815,6 +1857,13 @@
     "id": "1397853",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 57706.36,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Budget, SB 108/AB 107, AB 596/SB 380, SB 245/AB 311, SB 227, SB 953, AB 2263, AB 1961/AB 518, AB 2446, SB 242, AB 2508, AB 2586, AB 2458, AB 2441, SB 1446, AB 3127"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 59462.31,
@@ -1874,6 +1923,19 @@
         "paymentsToInfluence": 12500,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
+      }
+    ]
+  },
+  {
+    "name": "HAND & STONE",
+    "id": "1435847",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 19384.61,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING"
       }
     ]
   },
@@ -2289,6 +2351,19 @@
     ]
   },
   {
+    "name": "MASSAGE PLACE",
+    "id": "1476629",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5538.48,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING"
+      }
+    ]
+  },
+  {
     "name": "MILLION VOTER PROJECT ACTION FUND",
     "id": "1460004",
     "quarters": [
@@ -2687,6 +2762,13 @@
     "name": "POINT LOMA NAZARENE UNIVERSITY",
     "id": "1399861",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -3854,6 +3936,13 @@
     "id": "1441782",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 24316.25,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control and Legislature:  Chemically Treated Metal Shredder Residue Regulations; AB 2851, SB 1234."
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 10962.6,
@@ -3948,6 +4037,13 @@
     "name": "VANGUARD UNIVERSITY OF SOUTHERN CALIFORNIA",
     "id": "1392157",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
@@ -4095,6 +4191,13 @@
     "name": "WESTMONT COLLEGE",
     "id": "1399860",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2023-2024",
