@@ -210,6 +210,19 @@
     ]
   },
   {
+    "name": "ANTHROPIC PBC",
+    "id": "1476544",
+    "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 77605.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2013; SB 1047"
+      }
+    ]
+  },
+  {
     "name": "AZUSA PACIFIC UNIVERSITY",
     "id": "1435863",
     "quarters": [
@@ -407,6 +420,13 @@
     "id": "1444222",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 5000,
@@ -481,6 +501,13 @@
     "id": "1405445",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3484.86,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1588, 2239, 2930, 3179; SB 424"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 4659.72,
@@ -528,6 +555,13 @@
     "name": "CALAVERAS TELEPHONE COMPANY",
     "id": "1396091",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2945.46,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1588, 2239, 2930, 3179; SB 424"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -757,6 +791,13 @@
     "id": "1397855",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3952442.3,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL GAS PRICE ISSUES, ABX 1-2: LEGISLATURE"
+      },
+      {
         "quarter": "1st",
         "session": "2023-2024",
         "paymentsToInfluence": 3414612,
@@ -769,6 +810,13 @@
     "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
     "id": "1368757",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 1249468,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2716, 3233; GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -810,6 +858,13 @@
     "name": "CALIFORNIANS TO PROTECT COMMUNITY HEALTHCARE",
     "id": "1471971",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 63790.32,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 3129"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -1285,6 +1340,13 @@
     "id": "1405469",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 84765,
+        "lobbiedOn": "A.23-10-008"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 8000,
@@ -1580,6 +1642,13 @@
     "name": "FIX PAGA: A BETTER, FAIRER WAY FOR WORKERS. A PROJECT OF CALIFORNIANS FOR FAIR PAY & EMPLOYER ACCOUNTABILITY",
     "id": "1466423",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 435522.33,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING AB 2288, SB 92, PRIVATE ATTORNEY GENERALS ACT (PAGA)."
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -2149,6 +2218,13 @@
     "id": "1468945",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9450,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -2194,6 +2270,13 @@
     "name": "LAS VIRGENES MUNICIPAL WATER DISTRICT",
     "id": "1396702",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12220,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 460, AB 682, AB 754, AB 755, AB 1211, AB 1337, AB 1484, AB 1567, AB 1594, AB 1820, AB 1827, AB 2257, AB 2409, SB 23, SB 366, SB 676, SB 687, SB 867, SB 1072, SB 1169, SB 1218, SB 1255, SB 1390"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -2268,6 +2351,13 @@
     "name": "LEADERSHIP COUNSEL FOR JUSTICE AND ACCOUNTABILITY",
     "id": "1418369",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10568.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "CARB Low Carbon Fuel Standard, AB 98"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -2817,6 +2907,13 @@
     "id": "1396247",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5164.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1588, 2239, 2930, 3179; SB 424"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 7668.87,
@@ -3066,6 +3163,13 @@
     "id": "1368816",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Minimum Wage Issues -- Legislature, Governor"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 8000,
@@ -3098,6 +3202,13 @@
     "name": "SAVE LOCAL RESTAURANTS",
     "id": "1459886",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "FAST FOOD COUNCIL: CALIFORNIA DEPARTMENT OF INDUSTRIAL RELATIONS"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
@@ -3194,6 +3305,13 @@
     "id": "1256591",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 10498.33,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Industrial Relations (Fast Food Council/CalOSHA): increase minimum wage, fair hours and working conditions for fast food workers."
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 7978.75,
@@ -3254,6 +3372,13 @@
     "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC",
     "id": "1302175",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 14482.98,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2795; SB 525, 399, 1340"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -3694,6 +3819,13 @@
     "id": "1333463",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 75000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 2236; SB 1053"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 150000,
@@ -3807,6 +3939,13 @@
     "name": "TECHEQUITY COLLABORATIVE",
     "id": "1472155",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7130.02,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1047 SB 892 AB 3211 AB 2655 AB 2839 SB 1228 AB 459 AB 2286 SB 915 SB 1220 AB 2930 AB 747 AB 2747 AB 1893 AB 2396 AB 2785 AB 2216 AB 2347 AB 2926 AB 2016 AB 1103 AB 2801 AB 1932 AB 2785 ACA 10 AB 1657 SB 225 SB 1061 AB 2200 SB 1030 SB 333 SB 1089 AB 518 AB 2499 SB 1090 SB 1137 SB 1022 AB 1961 AB 2751 SB 1345 AB 2042 SB 1212 AB 2358 SB 1103"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
@@ -4084,6 +4223,13 @@
     "id": "1396213",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2400.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1588,2239, 2930, 3179; SB 424"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 2400.95,
@@ -4124,6 +4270,13 @@
     "name": "VOTE SOLAR",
     "id": "1380645",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 54836.57,
+        "pucLobbying": 0,
+        "lobbiedOn": "Regulatory Dockets: CPUC: R.22-11-013 and R.21-06-017  CEC: CEC-24-SB 100 and CEC-24-OIIP-23 Legislative: SB 1374, SB 59 and AB 3111"
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
