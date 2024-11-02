@@ -1199,6 +1199,13 @@
     "id": "1442003",
     "quarters": [
       {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 12537.85,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q3:"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 20037.27,
@@ -2282,6 +2289,19 @@
         "paymentsToInfluence": 12500,
         "pucLobbying": 0,
         "lobbiedOn": "None this period."
+      }
+    ]
+  },
+  {
+    "name": "JETBLUE AIRWAYS CORPORATION",
+    "id": "1476689",
+    "quarters": [
+      {
+        "quarter": "6th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislation to reform the Private Attorneys General Act"
       }
     ]
   },
@@ -4357,6 +4377,13 @@
     "name": "VALLECITOS WATER DISTRICT",
     "id": "1396377",
     "quarters": [
+      {
+        "quarter": "7th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 46490,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "6th",
         "session": "2023-2024",
