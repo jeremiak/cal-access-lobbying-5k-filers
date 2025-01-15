@@ -3667,6 +3667,13 @@
     "id": "1306660",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9589.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor: LifeLine Program and Broadband Equity, Access and Deployment (BEAD) Program."
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 9589.77,
@@ -3796,6 +3803,13 @@
     "name": "SISKIYOU TELEPHONE COMPANY",
     "id": "1396090",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3235.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor: LifeLine Program and Broadband Equity, Access and Deployment (BEAD) Program."
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -3946,6 +3960,13 @@
     "name": "SOQUEL CREEK WATER DISTRICT",
     "id": "1395665",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 37448.26,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "4th",
         "session": "2023-2024",
