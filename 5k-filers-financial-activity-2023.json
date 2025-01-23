@@ -43,6 +43,13 @@
     "id": "1441821",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -1865,6 +1872,13 @@
     "id": "1405418",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3280.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "LifeLine Program and Broadband Equity, Access and Deployment (BEAD) Program."
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 3280.14,
@@ -2337,6 +2351,13 @@
     "id": "1405417",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3924.11,
+        "pucLobbying": 0,
+        "lobbiedOn": "LifeLine Program and Broadband Equity, Access and Deployment (BEAD) Program."
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 3924.11,
@@ -2464,6 +2485,13 @@
     "name": "LAS VIRGENES MUNICIPAL WATER DISTRICT",
     "id": "1396702",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 64743.44,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 460, AB 682, AB 754, AB 755, AB 1211, AB 1337, AB 1484, AB 1567, AB 1594, AB 1820, AB 1827, AB 2257, AB 2409, SB 23, SB 366, SB 676, SB 687, SB 867, SB 1072, SB 1169, SB 1218, SB 1255, SB 1390"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -4100,6 +4128,13 @@
     "name": "STREETS FOR ALL",
     "id": "1466461",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 11287.19,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: Accessory Commercial Units, Coastal Commission Reform regarding land use and transportation policy decisions, California Traffic Control Devices Committee Reform, California Environmental Quality Act Reform, Transit-Orientated Development, Law Enforcement Strategies to tackle violence and street safety."
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
