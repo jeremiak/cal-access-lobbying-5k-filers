@@ -4582,6 +4582,13 @@
     "id": "1401209",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 51558,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1072 (Padilla), SB 1255 (Durazo), AB 2257 (Wilson)"
+      },
+      {
         "quarter": "4th",
         "session": "2023-2024",
         "paymentsToInfluence": 43689,
