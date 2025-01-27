@@ -1664,6 +1664,13 @@
     "id": "1455996",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5441.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 5441.1,
@@ -3378,6 +3385,13 @@
     "name": "RG ENVIRONMENTAL HOLDINGS INC.",
     "id": "1392082",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 7344.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA AIR RESOURCES BOARD RE: ADVANCED CLEAN FLEETS"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
