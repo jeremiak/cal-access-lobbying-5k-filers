@@ -1516,6 +1516,13 @@
     "id": "1354858",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 70423.87,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control and Legislature: Potential legislation regarding metal shredding facilities."
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 83626,
@@ -1697,6 +1704,13 @@
     "name": "ENVIRONMENTAL JUSTICE COALITION FOR WATER",
     "id": "1463608",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -3513,6 +3527,13 @@
     "name": "SAVE LOCAL RESTAURANTS",
     "id": "1459886",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 25000,
+        "pucLobbying": 0,
+        "lobbiedOn": "FAST FOOD COUNCIL: CALIFORNIA DEPARTMENT OF INDUSTRIAL RELATIONS"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
