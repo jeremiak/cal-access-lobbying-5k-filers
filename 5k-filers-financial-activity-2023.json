@@ -731,6 +731,13 @@
     "id": "1302208",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 73500,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
         "quarter": "5th",
         "session": "2023-2024",
         "paymentsToInfluence": 125000,
@@ -757,6 +764,13 @@
     "name": "CALIFORNIA ENERGY AND INFRASTRUCTURE LABOR MANAGEMENT COOPERATION TRUST",
     "id": "1439949",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 630000,
+        "pucLobbying": 0,
+        "lobbiedOn": "ABX2-1."
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -891,6 +905,13 @@
     "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
     "id": "1368757",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 308427.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -1467,6 +1488,13 @@
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -2696,6 +2724,13 @@
     "name": "LIMINALITY CAPITAL",
     "id": "1449222",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CAP AND TRADE PROGRAM: CALIFORNIA AIR RESOURCES BOARD"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -4685,6 +4720,13 @@
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2400.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNORS OFFICE RE: LIFELINE PROGRAM AND BROADBAND EQUITY, ACCESS AND DEPLOYMENT (BEAD) PROGRAM"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
