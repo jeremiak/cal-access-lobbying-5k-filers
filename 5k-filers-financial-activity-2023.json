@@ -1,5 +1,18 @@
 [
   {
+    "name": "ACACIA CENTER FOR JUSTICE",
+    "id": "1478398",
+    "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9494.32,
+        "pucLobbying": 0,
+        "lobbiedOn": "Special Session Bill (SBX1-1) and 2025 Budget Act (AB 227)"
+      }
+    ]
+  },
+  {
     "name": "ACLU OF SAN DIEGO AND IMPERIAL COUNTIES",
     "id": "1471967",
     "quarters": [
@@ -105,6 +118,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 34675,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Legislature"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 53175,
@@ -152,6 +172,13 @@
     "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
     "id": "1439791",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 38655.12,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -511,6 +538,19 @@
     ]
   },
   {
+    "name": "BROOKFIELD HOMES HOLDINGS LLC AND AFFILIATED ENTITIES",
+    "id": "1478405",
+    "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 14100,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 3190"
+      }
+    ]
+  },
+  {
     "name": "BUILDING OWNERS AND MANAGERS ASSOCIATION OF CALIFORNIA",
     "id": "1468553",
     "quarters": [
@@ -535,6 +575,13 @@
     "id": "1461962",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 18276.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING, CA MASSAGE THERAPY COUNCIL SUNSET"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 19384.61,
@@ -554,6 +601,13 @@
     "name": "CAL-ORE TELEPHONE COMPANY",
     "id": "1405445",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3484.86,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNORS OFFICE RE: LIFELINE PROGRAM AND BROADBAND EQUITY, ACCESS AND DEPLOYMENT (BEAD) PROGRAM"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -610,6 +664,13 @@
     "id": "1396091",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 2945.46,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNORS OFFICE RE: LIFELINE PROGRAM AND BROADBAND EQUITY, ACCESS AND DEPLOYMENT (BEAD) PROGRAM"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 2945.46,
@@ -662,6 +723,13 @@
     "name": "CALIFORNIA CHARTER SCHOOLS ASSOCIATION",
     "id": "1418078",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 125787,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: LOCAL CONTROL FUNDING FORMULA (LCFF); DEPARTMENT OF FINANCE RE: SB 740 PROGRAM, LCFF, TRANSPORTATION FUNDING AND STATE BOND FUNDING"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -860,6 +928,11 @@
         "lobbiedOn": "SB 549"
       }
     ]
+  },
+  {
+    "name": "CALIFORNIA REPUBLICAN PARTY",
+    "id": "C25830",
+    "quarters": []
   },
   {
     "name": "CALIFORNIANS AGAINST HIGHER TAXES",
@@ -1254,6 +1327,13 @@
     "id": "1442003",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 4099.53,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q4:"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 12537.85,
@@ -1617,6 +1697,13 @@
     "name": "EDUCATION COALITION; THE",
     "id": "1303365",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 9999.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2024, Budget Act of 2025"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -2204,6 +2291,13 @@
     "id": "1435847",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5538.46,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING, CA MASSAGE THERAPY COUNCIL SUNSET"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 19384.61,
@@ -2712,6 +2806,13 @@
     "id": "1392095",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
         "quarter": "3rd",
         "session": "2023-2024",
         "paymentsToInfluence": 6000,
@@ -2863,6 +2964,13 @@
     "name": "MY FRIENDS",
     "id": "1417978",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 6685,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's office re: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -3253,6 +3361,13 @@
     "id": "1396247",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 3829.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE, GOVERNORS OFFICE RE: LIFELINE PROGRAM AND BROADBAND EQUITY, ACCESS AND DEPLOYMENT (BEAD) PROGRAM"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 5164.99,
@@ -3475,6 +3590,13 @@
     "name": "RIDGELINE PEDIATRIC",
     "id": "1461909",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 5023.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's office re: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -4040,6 +4162,13 @@
     "id": "1437356",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 535000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Clean energy and decarbonization"
+      },
+      {
         "quarter": "6th",
         "session": "2023-2024",
         "paymentsToInfluence": 818000,
@@ -4080,6 +4209,13 @@
     "name": "SOLAR RIGHTS ALLIANCE",
     "id": "1418603",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
@@ -4457,6 +4593,13 @@
     "id": "1460444",
     "quarters": [
       {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 29524.77,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
+      {
         "quarter": "7th",
         "session": "2023-2024",
         "paymentsToInfluence": 0,
@@ -4775,6 +4918,13 @@
     "name": "VOTE SOLAR",
     "id": "1380645",
     "quarters": [
+      {
+        "quarter": "8th",
+        "session": "2023-2024",
+        "paymentsToInfluence": 57383.17,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC - R.21-06-017, CEC - 24-IEPR-03"
+      },
       {
         "quarter": "7th",
         "session": "2023-2024",
