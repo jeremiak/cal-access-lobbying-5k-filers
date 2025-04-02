@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "LAKE HEMET MUNICIPAL WATER DISTRICT",
+    "id": "1396104",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5520,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
+      }
+    ]
+  }
+]
