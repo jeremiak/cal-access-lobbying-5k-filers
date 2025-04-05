@@ -1,5 +1,18 @@
 [
   {
+    "name": "FRESNO IRRIGATION DISTRICT",
+    "id": "1401352",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 24240,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "name": "LAKE HEMET MUNICIPAL WATER DISTRICT",
     "id": "1396104",
     "quarters": [
