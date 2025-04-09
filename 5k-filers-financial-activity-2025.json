@@ -24,5 +24,31 @@
         "lobbiedOn": "None"
       }
     ]
+  },
+  {
+    "name": "STREETS FOR ALL",
+    "id": "1466461",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 23323.19,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 382, AB 981, AB 1085, AB 612, SB 720, SB 358, SB 455, SB 79, SB 445, SB 381; Legislature: State Budget."
+      }
+    ]
+  },
+  {
+    "name": "TDS TELECOM",
+    "id": "1405283",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
   }
 ]
