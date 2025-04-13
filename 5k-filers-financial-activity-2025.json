@@ -26,6 +26,19 @@
     ]
   },
   {
+    "name": "SISKIYOU TELEPHONE COMPANY",
+    "id": "1396090",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3345.05,
+        "pucLobbying": 496,
+        "lobbiedOn": "Legislature: SB 716, SB 732, AB 353, AB 483, AB 911, AB 1018, AB 1218; Governor: LifeLine Program, Federal Funding Account grants, Caltrans permitting, and General Rate Case reform; CA Public Utilities Commission: LifeLine Program, R.22-08-008, R.24-06-012."
+      }
+    ]
+  },
+  {
     "name": "STREETS FOR ALL",
     "id": "1466461",
     "quarters": [
