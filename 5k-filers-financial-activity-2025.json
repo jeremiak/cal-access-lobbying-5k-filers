@@ -1,5 +1,18 @@
 [
   {
+    "name": "CONVENTION OF STATES ACTION",
+    "id": "1439710",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "In support of a general legislative subject matter concerning Article V of the U.S. Constitution"
+      }
+    ]
+  },
+  {
     "name": "FRESNO IRRIGATION DISTRICT",
     "id": "1401352",
     "quarters": [
@@ -61,6 +74,19 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "THE PROTECT OUR COMMUNITIES FOUNDATION",
+    "id": "1460444",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 25209,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
       }
     ]
   }
