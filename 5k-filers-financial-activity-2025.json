@@ -52,6 +52,19 @@
     ]
   },
   {
+    "name": "COURAGE CALIFORNIA",
+    "id": "1373266",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 8300,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      }
+    ]
+  },
+  {
     "name": "ELECTRONIC PAYMENTS COALITION",
     "id": "1480490",
     "quarters": [
@@ -87,6 +100,19 @@
         "paymentsToInfluence": 5520,
         "pucLobbying": 0,
         "lobbiedOn": "None"
+      }
+    ]
+  },
+  {
+    "name": "LAS VIRGENES MUNICIPAL WATER DISTRICT",
+    "id": "1396702",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 20100,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 367, AB 514, SB 31, SB 72, SB 394, SB 466, SB 496, SB 654"
       }
     ]
   },
