@@ -13,6 +13,19 @@
     ]
   },
   {
+    "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
+    "id": "1439791",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6950.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
     "name": "BLUE SHIELD OF CALIFORNIA FOUNDATION",
     "id": "1439197",
     "quarters": [
@@ -78,6 +91,19 @@
     ]
   },
   {
+    "name": "FORESTHILL TELEPHONE CO (DBA SEBASTIAN)",
+    "id": "1405418",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3431.51,
+        "pucLobbying": 457,
+        "lobbiedOn": "R.22-08-008 R.24-06-012 CPUC: LifeLine program Governor: LifeLine program, Federal Funding Account grants, Caltrans permitting, and General Rate Case reform Legislature: SB 716 and 732; AB 353, 483, 911, 1018 and 1218"
+      }
+    ]
+  },
+  {
     "name": "FRESNO IRRIGATION DISTRICT",
     "id": "1401352",
     "quarters": [
@@ -87,6 +113,32 @@
         "paymentsToInfluence": 24240,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "name": "GREEN TRADING CAPITAL, LP",
+    "id": "1480485",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6310.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      }
+    ]
+  },
+  {
+    "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
+    "id": "1405417",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 4016.74,
+        "pucLobbying": 551,
+        "lobbiedOn": "? R.22-08-008 ? R.24-06-012 o CPUC: Lifeline program o Governor: Lifeline program, Federal Funding Account grants, Caltrans permitting, and General Rate Case reform o Legislature: SB 716 and 732; AB 353, 483, 911, 1018 and 1218"
       }
     ]
   },
