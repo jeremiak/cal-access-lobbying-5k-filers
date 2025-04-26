@@ -78,6 +78,19 @@
     ]
   },
   {
+    "name": "DUCOR TELEPHONE COMPANY",
+    "id": "1405469",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 220,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008, R.24-06-012"
+      }
+    ]
+  },
+  {
     "name": "ELECTRONIC PAYMENTS COALITION",
     "id": "1480490",
     "quarters": [
@@ -165,6 +178,32 @@
         "paymentsToInfluence": 20100,
         "pucLobbying": 0,
         "lobbiedOn": "AB 367, AB 514, SB 31, SB 72, SB 394, SB 466, SB 496, SB 654"
+      }
+    ]
+  },
+  {
+    "name": "PUBLIC ADVOCATES",
+    "id": "1357454",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "CDE;SBE;Assemblymembers Aguiar-Curry,Ahrens,Alvarez,Bauer-Kahan,Boerner,Connolly,Gonzalez,Haney,Kalra, Krell,Muratsuchi,Nguyen,Ortega,Pellerin,Rivas,Rogers,Sharp-Collins,Stefani,Wicks; Senators Arreguin,Ashby,Cabaldon,Cortese,Durazo,Laird,McGuire,Menjivar,Perez,Reyes,Stern,Wahab ABs 20,68,79,90,255,705,860,878,927,1070,1224,1157,1705,1204,1468;SBs 63,375,SBX1-2,436,634,1121"
+      }
+    ]
+  },
+  {
+    "name": "SIMS METAL MANAGEMENT",
+    "id": "1318031",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 74958.13,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control and Legislature: SB 404, SB 222"
       }
     ]
   },
