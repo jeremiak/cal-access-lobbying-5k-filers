@@ -39,6 +39,32 @@
     ]
   },
   {
+    "name": "CAL-ORE TELEPHONE COMPANY",
+    "id": "1405445",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3607.88,
+        "pucLobbying": 441,
+        "lobbiedOn": "AB 353, 483, 911, 1018, 1218; SB 716, 732; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008, R.24-06-012, LIFELINE PROGRAM; GOVERNORS OFFICE RE: LIFELINE PROGRAM, FEDERAL FUNDING ACCOUNT GRANTS, CALTRANS PERMITTING, GENERAL RATE CASE REFORM"
+      }
+    ]
+  },
+  {
+    "name": "CALAVERAS TELEPHONE COMPANY",
+    "id": "1396091",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3030.76,
+        "pucLobbying": 488,
+        "lobbiedOn": "AB 353, 483, 911, 1018, 1218; SB 716, 732; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008, R.24-06-012, LIFELINE PROGRAM; GOVERNORS OFFICE RE: LIFELINE PROGRAM, FEDERAL FUNDING ACCOUNT GRANTS, CALTRANS PERMITTING, GENERAL RATE CASE REFORM"
+      }
+    ]
+  },
+  {
     "name": "CALIFORNIA ENDOWMENT; THE",
     "id": "1302208",
     "quarters": [
@@ -48,6 +74,19 @@
         "paymentsToInfluence": 115000,
         "pucLobbying": 0,
         "lobbiedOn": "See attachment 'Part 1'"
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
+    "id": "1368757",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2351275,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
       }
     ]
   },
@@ -182,6 +221,45 @@
     ]
   },
   {
+    "name": "LIMINALITY CAPITAL",
+    "id": "1449222",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 22064,
+        "pucLobbying": 0,
+        "lobbiedOn": "CAP AND TRADE PROGRAM: CALIFORNIA AIR RESOURCES BOARD"
+      }
+    ]
+  },
+  {
+    "name": "PARTNERSHIP FOR CHILDREN & YOUTH",
+    "id": "1397776",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 8095,
+        "pucLobbying": 0,
+        "lobbiedOn": "State budget - Governor's January budget proposal for FY 2026, re: expanded learning community schools,  Local Control Funding Formula, Cradle 2 Career Data System"
+      }
+    ]
+  },
+  {
+    "name": "PONDEROSA TELEPHONE COMPANY, THE",
+    "id": "1396247",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3558.22,
+        "pucLobbying": 611,
+        "lobbiedOn": "AB 353, 483, 911, 1018, 1218; SB 716, 732; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008, R.24-06-012, LIFELINE PROGRAM; GOVERNORS OFFICE RE: LIFELINE PROGRAM, FEDERAL FUNDING ACCOUNT GRANTS, CALTRANS PERMITTING, GENERAL RATE CASE REFORM"
+      }
+    ]
+  },
+  {
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
@@ -191,6 +269,32 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 0,
         "lobbiedOn": "CDE;SBE;Assemblymembers Aguiar-Curry,Ahrens,Alvarez,Bauer-Kahan,Boerner,Connolly,Gonzalez,Haney,Kalra, Krell,Muratsuchi,Nguyen,Ortega,Pellerin,Rivas,Rogers,Sharp-Collins,Stefani,Wicks; Senators Arreguin,Ashby,Cabaldon,Cortese,Durazo,Laird,McGuire,Menjivar,Perez,Reyes,Stern,Wahab ABs 20,68,79,90,255,705,860,878,927,1070,1224,1157,1705,1204,1468;SBs 63,375,SBX1-2,436,634,1121"
+      }
+    ]
+  },
+  {
+    "name": "SAMSARA INC.",
+    "id": "1480318",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7575.2,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1018"
+      }
+    ]
+  },
+  {
+    "name": "SAVE LOCAL RESTAURANTS",
+    "id": "1459886",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 137919,
+        "pucLobbying": 0,
+        "lobbiedOn": "FAST FOOD COUNCIL: CALIFORNIA DEPARTMENT OF INDUSTRIAL RELATIONS"
       }
     ]
   },
@@ -217,6 +321,19 @@
         "paymentsToInfluence": 3345.05,
         "pucLobbying": 496,
         "lobbiedOn": "Legislature: SB 716, SB 732, AB 353, AB 483, AB 911, AB 1018, AB 1218; Governor: LifeLine Program, Federal Funding Account grants, Caltrans permitting, and General Rate Case reform; CA Public Utilities Commission: LifeLine Program, R.22-08-008, R.24-06-012."
+      }
+    ]
+  },
+  {
+    "name": "SOLAR RIGHTS ALLIANCE",
+    "id": "1418603",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 16664,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 924, 1104"
       }
     ]
   },
@@ -256,6 +373,19 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 25209,
         "lobbiedOn": "California Public Utilities Commission proceedings"
+      }
+    ]
+  },
+  {
+    "name": "VOLCANO TELEPHONE COMPANY",
+    "id": "1396213",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2608.26,
+        "pucLobbying": 657,
+        "lobbiedOn": "AB 353, 483, 911, 1018, 1218; SB 716, 732; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008, R.24-06-012, LIFELINE PROGRAM; GOVERNORS OFFICE RE: LIFELINE PROGRAM, FEDERAL FUNDING ACCOUNT GRANTS, CALTRANS PERMITTING, GENERAL RATE CASE REFORM"
       }
     ]
   }
