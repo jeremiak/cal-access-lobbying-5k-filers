@@ -728,6 +728,19 @@
     ]
   },
   {
+    "name": "SMARTER REGULATION",
+    "id": "1480743",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "California Privacy Protection Agency:?CCPA Updates on Automated Decision Making (ADMT), Cybersecurity Audits, and Risk Assessments"
+      }
+    ]
+  },
+  {
     "name": "SOLAR RIGHTS ALLIANCE",
     "id": "1418603",
     "quarters": [
