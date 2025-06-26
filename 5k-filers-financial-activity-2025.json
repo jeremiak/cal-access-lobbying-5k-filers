@@ -869,5 +869,18 @@
         "lobbiedOn": "CPUC R.20-05-003, CPUC R.22-11-013 and CEC 24 -OIIP-03"
       }
     ]
+  },
+  {
+    "name": "WOMEN'S FOUNDATION OF CALIFORNIA",
+    "id": "1265164",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7099.91,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 50, 65, 360, 379, 878, 969, 1018, 1351; SB 418, 498, 578, 590, 608, 642."
+      }
+    ]
   }
 ]
