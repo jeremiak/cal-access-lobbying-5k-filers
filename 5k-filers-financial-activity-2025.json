@@ -733,6 +733,13 @@
     "id": "1396090",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3345.05,
+        "pucLobbying": 338,
+        "lobbiedOn": "Legislature: SB 716, AB 353, AB 476, AB 911, AB 1018, AB 1410.  CA Public Utilities Commission: R.22-08-008 Order Instituting Rulemaking Proceeding to Consider Changes to Licensing Status and Obligations of Interconnected Voice over Internet Protocol Carriers."
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 3345.05,
