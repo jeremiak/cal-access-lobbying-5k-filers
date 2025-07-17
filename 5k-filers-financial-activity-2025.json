@@ -258,6 +258,13 @@
     "id": "1373266",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 27500,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment."
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 8300,
