@@ -806,6 +806,13 @@
     "id": "1480672",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 39458.36,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 87581.59,
@@ -844,6 +851,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
