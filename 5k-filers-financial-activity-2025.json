@@ -228,6 +228,19 @@
     ]
   },
   {
+    "name": "CHRONIC DISEASE COALITION",
+    "id": "1481838",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 22500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1460"
+      }
+    ]
+  },
+  {
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
@@ -323,6 +336,13 @@
     "name": "ECOLOGY AUTO PARTS",
     "id": "1354858",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 80834.64,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control, Governors Office, and Legislature: SB 404"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -689,6 +709,13 @@
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 35780,
+        "pucLobbying": 0,
+        "lobbiedOn": "HCD;CDE;CTC;DOF;SBE;LAO Assemblymembers Alvarez,Bauer-Kahan,Connolly,Gonzalez,Harabedian,Lowenthal,Papan,Sharp-Collins,Stefani,Zbur;Senators Arreguin,Ashby,Becker,Cabaldon,Cortese,Gonzalez,Grayson,Ochoa-Bogh,Perez,Wahab,Weiner ABs 11,49,84,90,243,291,477,575,715,801,860,906,927,1078,1204,1207,1224,1225,1157,1468,1470;1818;SBs 48, 63,79,436,486,610,634,681,840"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
