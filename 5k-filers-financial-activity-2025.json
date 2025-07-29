@@ -76,6 +76,13 @@
     "id": "1439791",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2025.8,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1464, 1388, 1165, 630, 847, 358, 45; SB 311, 337, 850, 93, 634, 45; LEGISLATURE, GOVERNORS OFFICE RE: PRIVACY, ARTIFICIAL INTELLIGENCE (AI)"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 6950.88,
@@ -115,6 +122,13 @@
     "id": "1439197",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15019,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 15405,
@@ -141,6 +155,13 @@
     "id": "1405445",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3607.88,
+        "pucLobbying": 301,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 3607.88,
@@ -154,6 +175,13 @@
     "id": "1396091",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 1532.76,
+        "pucLobbying": 332,
+        "lobbiedOn": "AB 353, 476, 911, 1018, 1410; SB 716; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 3030.76,
@@ -161,6 +189,11 @@
         "lobbiedOn": "AB 353, 483, 911, 1018, 1218; SB 716, 732; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008, R.24-06-012, LIFELINE PROGRAM; GOVERNORS OFFICE RE: LIFELINE PROGRAM, FEDERAL FUNDING ACCOUNT GRANTS, CALTRANS PERMITTING, GENERAL RATE CASE REFORM"
       }
     ]
+  },
+  {
+    "name": "CALIFORNIA ALLIANCE FOR JOBS",
+    "id": "P24740",
+    "quarters": []
   },
   {
     "name": "CALIFORNIA ENDOWMENT; THE",
@@ -323,6 +356,13 @@
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 150,
+        "lobbiedOn": "CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -554,9 +594,16 @@
     "id": "1396702",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 22119.82,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 367, AB 514, SB 31, SB 72, SB 394, SB 466, SB 496, SB 654, Delta Conveyance Project Trailer Bill"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
-        "paymentsToInfluence": 20100,
+        "paymentsToInfluence": 22617.67,
         "pucLobbying": 0,
         "lobbiedOn": "AB 367, AB 514, SB 31, SB 72, SB 394, SB 466, SB 496, SB 654"
       }
@@ -683,6 +730,13 @@
     "name": "PONDEROSA TELEPHONE COMPANY, THE",
     "id": "1396247",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5090.22,
+        "pucLobbying": 611,
+        "lobbiedOn": "AB 353, 476, 911, 1018, 1410; SB 716; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -815,6 +869,13 @@
     "id": "1306660",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 9639.66,
+        "pucLobbying": 1056.5,
+        "lobbiedOn": "Legislature: SB 716; and AB 353, 476, 911, 1018 and 1410 State: R.22-08-008 OIR Proceeding to Consider Changes to Licensing Status and Obligations of Interconnected VoIP Carriers  A.25-02-014 Application of Sierra Telephone Company, Inc. (U 1016 C) For an Order under Public Utilities Code Section 851"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 9639.66,
@@ -887,6 +948,13 @@
     "id": "1418603",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 98350,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 942"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 16664,
@@ -932,6 +1000,13 @@
     "name": "STREETS FOR ALL",
     "id": "1466461",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 18574.71,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 720, SB 358, SB 455, SB 79, SB 445, SB 381, SB 681, AB 382, AB 981, AB 1085, AB 366, AB 612; Legislature: State Budget."
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -1004,6 +1079,13 @@
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2608.26,
+        "pucLobbying": 448,
+        "lobbiedOn": "AB 353, 476, 911, 1018, 1410; SB 716; CA PUBLIC UTILITIES COMMISSION RE: R.22-08-008"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
