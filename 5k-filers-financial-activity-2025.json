@@ -4,6 +4,13 @@
     "id": "1478398",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15781.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "Children's Holistic Immigration Representation Program ('CHIRP') Budget Bill"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 18043.72,
@@ -55,6 +62,19 @@
         "paymentsToInfluence": 50000,
         "pucLobbying": 0,
         "lobbiedOn": "Legislation establishing a psilocybin pilot program for veterans and first responders"
+      }
+    ]
+  },
+  {
+    "name": "ALLIANCE OF CALIFORNIANS FOR COMMUNITY EMPOWERMENT (ACCE ACTION)",
+    "id": "1482662",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1157."
       }
     ]
   },
@@ -251,6 +271,13 @@
     "name": "CENTER ON RACE, POVERTY & THE ENVIRONMENT",
     "id": "1472084",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 24625,
+        "pucLobbying": 0,
+        "lobbiedOn": "DPR 25-003 Pesticide Use Near Schoolsites AB 881 (Petrie-Norris) AB 1207 (Irwin) SB 285 (Becker) SB 318 (Becker) SB 614 (Stern) SB 840 (Limon) SR 51 (Becker) SB 607 (Wiener) SB 542 (Limon) AB 1318 (Bonta) SB 655 (Stern) AB 131 (budget) AB 130 (budget) SB 350 (Durazo) AB 839 (Rubio) AB 35 (Alvarez) SB 684 (Menjivar) AB 1243 (Addis) AB 609 (Wicks) AB 806 (Connolly) AB 914 (Garcia) SB 299 (Calbaldon)"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -485,9 +512,29 @@
     ]
   },
   {
+    "name": "GOLDEN STATE COMMUNITIES",
+    "id": "1455913",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 47000,
+        "pucLobbying": 0,
+        "lobbiedOn": "STATE LEGISLATURE REGARDING: SB 562, SB 672."
+      }
+    ]
+  },
+  {
     "name": "GRACE END CHILD POVERTY INSTITUTE",
     "id": "1397853",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 38082.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment."
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -649,6 +696,19 @@
     ]
   },
   {
+    "name": "MILLION VOTER PROJECT ACTION FUND",
+    "id": "1460004",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1157"
+      }
+    ]
+  },
+  {
     "name": "MOULTON NIGUEL WATER DISTRICT",
     "id": "1480739",
     "quarters": [
@@ -727,6 +787,19 @@
     ]
   },
   {
+    "name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
+    "id": "1378843",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 4582.75,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 54, AB 82, AB 260, SB 339, SB 497, SB 528"
+      }
+    ]
+  },
+  {
     "name": "PONDEROSA TELEPHONE COMPANY, THE",
     "id": "1396247",
     "quarters": [
@@ -776,6 +849,32 @@
         "paymentsToInfluence": 24196,
         "pucLobbying": 0,
         "lobbiedOn": "CDE;SBE;Assemblymembers Aguiar-Curry,Ahrens,Alvarez,Bauer-Kahan,Boerner,Connolly,Gonzalez,Haney,Kalra, Krell,Muratsuchi,Nguyen,Ortega,Pellerin,Rivas,Rogers,Sharp-Collins,Stefani,Wicks; Senators Arreguin,Ashby,Cabaldon,Cortese,Durazo,Laird,McGuire,Menjivar,Perez,Reyes,Stern,Wahab ABs 20,68,79,90,255,705,860,878,927,1070,1224,1157,1705,1204,1468;SBs 63,375,SBX1-2,436,634,1121"
+      }
+    ]
+  },
+  {
+    "name": "REBUILD SOCAL PARTNERSHIP",
+    "id": "1460054",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 126772.8,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 545, AB 914."
+      }
+    ]
+  },
+  {
+    "name": "RIDGELINE PEDIATRIC",
+    "id": "1461909",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 11970,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 785; LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES"
       }
     ]
   },
@@ -1059,6 +1158,19 @@
         "paymentsToInfluence": 0,
         "pucLobbying": 25209,
         "lobbiedOn": "California Public Utilities Commission proceedings"
+      }
+    ]
+  },
+  {
+    "name": "TOGETHER WE GROW",
+    "id": "1417976",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 11172,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 785; LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES"
       }
     ]
   },
