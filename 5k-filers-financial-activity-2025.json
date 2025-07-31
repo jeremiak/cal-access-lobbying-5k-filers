@@ -158,6 +158,19 @@
     ]
   },
   {
+    "name": "BRAESWOOD CARBON PARTNERS, LP",
+    "id": "1444222",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      }
+    ]
+  },
+  {
     "name": "BROOKFIELD HOMES HOLDINGS LLC AND AFFILIATED ENTITIES",
     "id": "1478405",
     "quarters": [
@@ -233,11 +246,31 @@
     "id": "1439949",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 90838,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1243; SB 222, SB 684"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 142915.5,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1243; SB 222, SB 684."
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA GAMING ASSOCIATION",
+    "id": "1415491",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 33750,
+        "pucLobbying": 0,
+        "lobbiedOn": "PROPOSED REGULATIONS ON PLAYER-DEALER AND BLACKJACK: ATTORNEY GENERAL'S OFFICE"
       }
     ]
   },
@@ -259,11 +292,31 @@
     "id": "1368757",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2229750,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 2351275,
         "pucLobbying": 0,
         "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      }
+    ]
+  },
+  {
+    "name": "CALOMA - CALIFORNIA LABOR OIL MANAGEMENT ALLIANCE",
+    "id": "1438059",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 80000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NO LEGISLATION OR ADMINISTRATIVE ACTIONS LOBBIED THIS QUARTER"
       }
     ]
   },
@@ -301,9 +354,29 @@
     ]
   },
   {
+    "name": "CLIMATE EMERGENCY ADVOCATES",
+    "id": "1480622",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 137864,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA SB 222"
+      }
+    ]
+  },
+  {
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 13398.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q2:"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -424,6 +497,13 @@
     "id": "1303365",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 9999.99,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Department of Finance, State Board of Education, Governor's Office: State Budget."
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 3333.33,
@@ -436,6 +516,13 @@
     "name": "ELECTRONIC PAYMENTS COALITION",
     "id": "1480490",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 604831,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -475,6 +562,19 @@
         "paymentsToInfluence": 3431.51,
         "pucLobbying": 457,
         "lobbiedOn": "R.22-08-008 R.24-06-012 CPUC: LifeLine program Governor: LifeLine program, Federal Funding Account grants, Caltrans permitting, and General Rate Case reform Legislature: SB 716 and 732; AB 353, 483, 911, 1018 and 1218"
+      }
+    ]
+  },
+  {
+    "name": "FRA CARBON LLC",
+    "id": "1482517",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
       }
     ]
   },
@@ -549,9 +649,29 @@
     "id": "1480485",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 18689.97,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 6310.03,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      }
+    ]
+  },
+  {
+    "name": "GROVE CARBON FUND I LP",
+    "id": "1482523",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
         "pucLobbying": 0,
         "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
       }
@@ -594,6 +714,13 @@
     "name": "INSPIRE BRANDS, INC.",
     "id": "1480625",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5555.5,
+        "pucLobbying": 0,
+        "lobbiedOn": "FAST FOOD COUNCIL: CALIFORNIA DEPARTMENT OF INDUSTRIAL RELATIONS"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -800,6 +927,19 @@
     ]
   },
   {
+    "name": "POINT LOMA NAZARENE UNIVERSITY",
+    "id": "1399861",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "name": "PONDEROSA TELEPHONE COMPANY, THE",
     "id": "1396247",
     "quarters": [
@@ -916,6 +1056,13 @@
     "id": "1459886",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 50000,
+        "pucLobbying": 0,
+        "lobbiedOn": "FAST FOOD COUNCIL: CALIFORNIA DEPARTMENT OF INDUSTRIAL RELATIONS"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 137919,
@@ -928,6 +1075,13 @@
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 47973.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1113, AB 1415, AB 1460, SB 580, SB 294, SB 81, Budget. Department of Health Care Access and Information (HCAI) re: Office of Health Care Affordability (OHCA), Health Care Payments Data Program (HPD), Hospital Equity Measures Reporting Program. Department of Health Care Services (DHCS) re: Protecting Access to Health Care Act Stakeholder Advisory Committee."
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -1152,6 +1306,13 @@
     "name": "THE PROTECT OUR COMMUNITIES FOUNDATION",
     "id": "1460444",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 19827.87,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
