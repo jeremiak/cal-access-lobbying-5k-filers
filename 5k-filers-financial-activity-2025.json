@@ -83,6 +83,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 106350,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 776; California State Board of Optometry, Rule making to Adopt Title 16 California Code of Regulations, Article 11.5, Section 1572, Relating to Radio Frequency Technology and Device."
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 17725,
@@ -121,6 +128,32 @@
         "paymentsToInfluence": 15123.46,
         "pucLobbying": 0,
         "lobbiedOn": "Issue: California Housing Justice Act of 2025 (AB1165). Issue: Limiting California fusion centers and update California Information Privacy Act (Bodies: California State Senate, California State Assembly). Issue: Strengthening California's Sanctuary law (Bodies: California State Senate, California State Assembly)."
+      }
+    ]
+  },
+  {
+    "name": "AMERICAN EDUCATION SYSTEMS INC",
+    "id": "1482772",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE RE: AB 765, BUDGET REGARDING ETP FUNDING"
+      }
+    ]
+  },
+  {
+    "name": "ANEW CLIMATE",
+    "id": "1482830",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
       }
     ]
   },
@@ -308,6 +341,19 @@
     ]
   },
   {
+    "name": "CALIIFORNIA ENVIIRONMENTAL VOTERS EDUCATION FUND",
+    "id": "1472227",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6608.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "Educational events. "
+      }
+    ]
+  },
+  {
     "name": "CALOMA - CALIFORNIA LABOR OIL MANAGEMENT ALLIANCE",
     "id": "1438059",
     "quarters": [
@@ -341,6 +387,19 @@
     ]
   },
   {
+    "name": "CHILD CARE LAW CENTER",
+    "id": "1283256",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 11070.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Budget Advocacy (child care budget) - SB 101, AB 102, SB 120, SB 103, AB 104."
+      }
+    ]
+  },
+  {
     "name": "CHRONIC DISEASE COALITION",
     "id": "1481838",
     "quarters": [
@@ -363,6 +422,32 @@
         "paymentsToInfluence": 137864,
         "pucLobbying": 0,
         "lobbiedOn": "CA SB 222"
+      }
+    ]
+  },
+  {
+    "name": "CLIMATE TRUST; THE",
+    "id": "1482829",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
+      }
+    ]
+  },
+  {
+    "name": "CLIMECO CORPORATION",
+    "id": "1482831",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
       }
     ]
   },
@@ -546,6 +631,19 @@
     ]
   },
   {
+    "name": "FANTASY SPORTS OPERATOR COALITION D/B/A COALITION FOR FANTASY SPORTS",
+    "id": "1482667",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 93000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "name": "FORESTHILL TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405418",
     "quarters": [
@@ -608,6 +706,19 @@
         "paymentsToInfluence": 30194.57,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: State Budget."
+      }
+    ]
+  },
+  {
+    "name": "FUND HER PAC",
+    "id": "1482617",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6404.77,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 65, 446; SB 222, 642."
       }
     ]
   },
@@ -694,6 +805,32 @@
         "paymentsToInfluence": 13846.15,
         "pucLobbying": 0,
         "lobbiedOn": "AB 1504; LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING, CA MASSAGE THERAPY COUNCIL SUNSET"
+      }
+    ]
+  },
+  {
+    "name": "HEALTH IN PARTNERSHIP",
+    "id": "1482816",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7554,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 590, SB 578, AB 65, AB 4, AB 936, AB 1049, SB 684, AB 1243, AB 1157, AB 49, AB 1165, SB 436, AB 801, AB 1248, AB 736, AB 1243, SB 684, SB 634, AB 1071, SB 544, AB 277, SB 850"
+      }
+    ]
+  },
+  {
+    "name": "HEALTH JUSTICE ACTION FUND",
+    "id": "1482795",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 621516.12,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature and Governor's Office re: Budget."
       }
     ]
   },
@@ -810,6 +947,19 @@
     ]
   },
   {
+    "name": "LOS ANGELES COUNTY CALIFORNIA PODIATRIC MEDICAL ASSOCIATION",
+    "id": "1482804",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SEE ATTACHMENT A"
+      }
+    ]
+  },
+  {
     "name": "MASSAGE PLACE",
     "id": "1476629",
     "quarters": [
@@ -901,6 +1051,45 @@
     ]
   },
   {
+    "name": "NEW FORESTS, INC",
+    "id": "1482833",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
+      }
+    ]
+  },
+  {
+    "name": "NEXTERA RENEWABLES",
+    "id": "1482827",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
+      }
+    ]
+  },
+  {
+    "name": "PARENTS FOR SCHOOL OPTIONS",
+    "id": "1482775",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 27821.34,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature - A.B. 84 (support)"
+      }
+    ]
+  },
+  {
     "name": "PARTNERSHIP FOR CHILDREN & YOUTH",
     "id": "1397776",
     "quarters": [
@@ -914,6 +1103,32 @@
     ]
   },
   {
+    "name": "PICO CALIFORNIA",
+    "id": "1419888",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 28981.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1157,1231; Legislature: The Diversion Bill"
+      }
+    ]
+  },
+  {
+    "name": "PICO CALIFORNIA ACTION FUND",
+    "id": "1482818",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5110.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1157"
+      }
+    ]
+  },
+  {
     "name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
     "id": "1378843",
     "quarters": [
@@ -923,6 +1138,39 @@
         "paymentsToInfluence": 4582.75,
         "pucLobbying": 0,
         "lobbiedOn": "AB 54, AB 82, AB 260, SB 339, SB 497, SB 528"
+      }
+    ]
+  },
+  {
+    "name": "PLANNED PARENTHOOD CENTRAL COAST ACTION FUND",
+    "id": "1407623",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 18848.57,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 54, 82, 260; SB 339, 497, 528; Legislature: State Budget."
+      },
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5927.64,
+        "pucLobbying": 0,
+        "lobbiedOn": "None."
+      }
+    ]
+  },
+  {
+    "name": "PLUS COMMUNICATIONS",
+    "id": "1482767",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 105000,
+        "pucLobbying": 0,
+        "lobbiedOn": "State Legislature - S.B. 41 (opposed) and A.B. 910 (opposed)."
       }
     ]
   },
@@ -1043,6 +1291,13 @@
     "id": "1368816",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 406200,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 55000,
@@ -1072,6 +1327,19 @@
     ]
   },
   {
+    "name": "SEIU 2015",
+    "id": "1397628",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 730040.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 283; Legislature: State Budget, including cuts to IHSS."
+      }
+    ]
+  },
+  {
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
@@ -1096,6 +1364,13 @@
     "id": "1256591",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 29006.62,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1340, 1365; CalPERS: Investment portfolio, board member conflict of interest issues concerning dual roles as investment manager and DOGE official; CalSTRS: Investment portfolio, labor principles promoting unionization; Department of Industrial Relations (Fast Food Council): Know-your-rights training, COLAs for minimum wages."
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 26766.9,
@@ -1105,9 +1380,29 @@
     ]
   },
   {
+    "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021",
+    "id": "1482604",
+    "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 17346.95,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: State Budget; Amendment of SB 63."
+      }
+    ]
+  },
+  {
     "name": "SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC",
     "id": "1302175",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 29854.1,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 339, 617, 1340; Legislature: State Budget - Medi-Cal coverage, Developmental Disabilities, In-Home Supportive Services, City of LA funding, California State Retirees funding, Judicial Branch Funding"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -1142,6 +1437,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 47090.63,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control, Governors Office, and Legislature: SB 404"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 74958.13,
@@ -1174,6 +1476,13 @@
     "name": "SIXTEEN THIRTY FUND",
     "id": "1437356",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 395796,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1408, AB 306, SB540"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -1294,6 +1603,13 @@
     "id": "1472155",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 8740.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 642 AB 1248 AB 1018 SB 52 SB 53 SB 238 AB 1221  AB 1331 SB 7  AB 692 AB 1189 SB 442 SB 642 AB 412 SB 36 SB 690 SB 259 SB 295 AB 489 SB 366 AB 316 AB 489"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 12583.94,
@@ -1373,6 +1689,13 @@
     "id": "1380645",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 60216.18,
+        "pucLobbying": 0,
+        "lobbiedOn": "CPUC R.20-05-003, CPUC R.22-11-013 and CEC 24 -OIIP-03"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 61765.5,
@@ -1385,6 +1708,13 @@
     "name": "WOMEN'S FOUNDATION OF CALIFORNIA",
     "id": "1265164",
     "quarters": [
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 22863.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 82, 260 379, 397, 878, 969; SB 337,498,418, 642."
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
