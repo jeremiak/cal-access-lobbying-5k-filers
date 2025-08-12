@@ -1094,6 +1094,13 @@
     "id": "1397776",
     "quarters": [
       {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 27346,
+        "pucLobbying": 0,
+        "lobbiedOn": "FY 2025-26 Budget proposals from the Governor, SB 101, AB/SB 121"
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 8095,
