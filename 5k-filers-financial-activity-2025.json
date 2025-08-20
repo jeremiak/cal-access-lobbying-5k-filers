@@ -644,6 +644,19 @@
     ]
   },
   {
+    "name": "FOREST LAWN MORTUARY",
+    "id": "1483219",
+    "quarters": [
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 61500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA ENVIRONMENTAL QUALITY ACT ISSUES: LEGISLATURE, GOVERNOR'S ADMINISTRATION AND OFFICE; HIGHWAY ROAD ACCESS: LEGISLATURE"
+      }
+    ]
+  },
+  {
     "name": "FORESTHILL TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405418",
     "quarters": [
