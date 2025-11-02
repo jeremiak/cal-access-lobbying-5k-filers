@@ -21,13 +21,17 @@ interface Quarter {
   lobbiedOn: string | undefined;
 }
 
+const headers = {
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0'
+}
+
 async function scrapeFilersForQueryAndSession(
   query: string,
   session: string,
 ): Promise<FiveKFiler[]> {
   const url =
     `https://cal-access.sos.ca.gov/Lobbying/Payments/list.aspx?letter=${query}&session=${session}`;
-  const response = await fetch(url);
+  const response = await fetch(url, { headers });
   const status: number = response.status;
   const html = await response.text();
   const doc: HTMLDocument | null = new DOMParser().parseFromString(
@@ -68,7 +72,7 @@ async function scrapeFilersForQueryAndSession(
 async function scrapeFiveKFilerFinancialActivity(id: string, session: string): Promise<Quarter> {
   console.log(`Scraping financial history for ${id}`)
   const url = `https://cal-access.sos.ca.gov/Lobbying/Payments/Detail.aspx?id=${id}&view=activity&session=${session}`
-  const response = await fetch(url)
+  const response = await fetch(url, { headers })
   const html = await response.text()
   const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
