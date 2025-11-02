@@ -1,8 +1,41 @@
 [
   {
+    "name": "3DEGREES",
+    "id": "1484649",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
+      }
+    ]
+  },
+  {
+    "name": "A-GAS",
+    "id": "1484653",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840; CA AIR RESOURCES BOARD RE: CAP AND TRADE REGULATION (CT)"
+      }
+    ]
+  },
+  {
     "name": "ACACIA CENTER FOR JUSTICE",
     "id": "1478398",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10935.3,
+        "pucLobbying": 0,
+        "lobbiedOn": "? SB105 - Budget Bill Jr.  ? AB1261 - Access to Legal Counsel of Immigrant Youth"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -33,9 +66,29 @@
     ]
   },
   {
+    "name": "ACTION NOW INITIATIVE, LLC",
+    "id": "1370070",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 398541,
+        "pucLobbying": 0,
+        "lobbiedOn": "Issues related to housing policy and criminal justice"
+      }
+    ]
+  },
+  {
     "name": "AIA HOLDINGS, INC.",
     "id": "1441664",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 20725,
+        "pucLobbying": 0,
+        "lobbiedOn": "California State Legislature regarding: SB 562, SB 672"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -83,6 +136,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 32725,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 776; California State Board of Optometry: Rule making to Adopt Title 16 California Code of Regulations, Article 11.5, Section 1572, Relating to Radio Frequency Technology and Device."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 106350,
@@ -102,6 +162,13 @@
     "name": "AMERICAN CIVIL LIBERTIES UNION OF NORTHERN CALIFORNIA",
     "id": "1439791",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 11538.71,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1388, AB 847, AB 630 AB 715, AB 1165; SB 634, SB 627, SB 132"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -158,6 +225,45 @@
     ]
   },
   {
+    "name": "ASSOCIATION OF CALIFORNIANS FOR AFFORDABLE CLEAN POWER NOW",
+    "id": "1483245",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 353858,
+        "pucLobbying": 0,
+        "lobbiedOn": "Advocate for legislation, regulations, and other government programs to safeguard natural resources and conserve the environment."
+      }
+    ]
+  },
+  {
+    "name": "AZUSA PACIFIC UNIVERSITY",
+    "id": "1435863",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "name": "BAY AREA FORWARD",
+    "id": "1484724",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10102,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 63"
+      }
+    ]
+  },
+  {
     "name": "BEST BEST & KRIEGER LLP",
     "id": "1479240",
     "quarters": [
@@ -171,9 +277,29 @@
     ]
   },
   {
+    "name": "BIOLA UNIVERSITY",
+    "id": "1399830",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "name": "BLUE SHIELD OF CALIFORNIA FOUNDATION",
     "id": "1439197",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 32481,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment 'Part 1'"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -217,9 +343,29 @@
     ]
   },
   {
+    "name": "BURKE WILLIAMS DAY SPA",
+    "id": "1461962",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 13698.38,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1504; LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING, CA MASSAGE THERAPY COUNCIL SUNSET"
+      }
+    ]
+  },
+  {
     "name": "CAL-ORE TELEPHONE COMPANY",
     "id": "1405445",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3607.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -240,6 +386,13 @@
     "name": "CALAVERAS TELEPHONE COMPANY",
     "id": "1396091",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 1532.76,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 353, 476, 1018; SB 716"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -299,11 +452,44 @@
     "id": "1415491",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 33750,
+        "pucLobbying": 0,
+        "lobbiedOn": "PROPOSED REGULATIONS ON PLAYER-DEALER AND BLACKJACK: ATTORNEY GENERAL'S OFFICE"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 33750,
         "pucLobbying": 0,
         "lobbiedOn": "PROPOSED REGULATIONS ON PLAYER-DEALER AND BLACKJACK: ATTORNEY GENERAL'S OFFICE"
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA JEWISH LEGISLATIVE CAUCUS LEADERSHIP FOUNDATION",
+    "id": "1471704",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 411; AB 1468; SB 225; SB 472; Holocaust Survivor Assistance Program (HSAP)."
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA JEWISH PAC",
+    "id": "1484585",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 715"
       }
     ]
   },
@@ -324,6 +510,13 @@
     "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
     "id": "1368757",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 1120830.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -371,6 +564,13 @@
     "id": "1472084",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 26241,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 614, SB 88, SB 643, SB 605, SB 655, SB 237, SB 131, SB 840, AB 1207, AB 352, AB 881, CARB SB 905 pre-rulemaking"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 24625,
@@ -413,6 +613,19 @@
     ]
   },
   {
+    "name": "CLEAN AND PROSPEROUS CALIFORNIA",
+    "id": "1484711",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 51747.42,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207, SB 840."
+      }
+    ]
+  },
+  {
     "name": "CLIMATE EMERGENCY ADVOCATES",
     "id": "1480622",
     "quarters": [
@@ -422,6 +635,19 @@
         "paymentsToInfluence": 137864,
         "pucLobbying": 0,
         "lobbiedOn": "CA SB 222"
+      }
+    ]
+  },
+  {
+    "name": "CLIMATE SAFE INFRASTRUCTURE COALITION",
+    "id": "1484713",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 124785.48,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840"
       }
     ]
   },
@@ -452,9 +678,29 @@
     ]
   },
   {
+    "name": "COALITION FOR AFFORDABLE, RELIABLE AND EQUITABLE HOUSING",
+    "id": "1395433",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 385616.14,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: SB 508, VEHICLE-MILES-TRAVELED (VMT) FEES (SECTIONS 57 AND 58 OF AB 130)."
+      }
+    ]
+  },
+  {
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 19010.97,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center engaged on the following legislative and administrative matters with reportable entities during Q3:"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -472,9 +718,42 @@
     ]
   },
   {
+    "name": "CONCORDIA UNIVERSITY IRVINE",
+    "id": "1392096",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "name": "CONSUMERS AGAINST GREED PAC (CAGPAC)",
+    "id": "1484768",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 55000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 371: Legislature"
+      }
+    ]
+  },
+  {
     "name": "CONVENTION OF STATES ACTION",
     "id": "1439710",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6172.15,
+        "pucLobbying": 0,
+        "lobbiedOn": "In support of a general legislative subject matter concerning Article V of the U.S. Constitution"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -509,6 +788,13 @@
     "id": "1373266",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 17800,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 27500,
@@ -538,9 +824,29 @@
     ]
   },
   {
+    "name": "DCCC",
+    "id": "1484699",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 108333.33,
+        "pucLobbying": 0,
+        "lobbiedOn": "Congressional redistricting."
+      }
+    ]
+  },
+  {
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -562,6 +868,13 @@
     "id": "1354858",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 69341.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control, Governor's Office, and Legislature: SB 404, metal recycling and the circular economy"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 80834.64,
@@ -581,6 +894,13 @@
     "name": "EDUCATION COALITION; THE",
     "id": "1303365",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget Act of 2025"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -631,6 +951,19 @@
     ]
   },
   {
+    "name": "ENDLESS PURSUIT CORP",
+    "id": "1455996",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5060.52,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalRecycle re: Solid Waste Haulers Regulations and SB 54 Packaging Regulations"
+      }
+    ]
+  },
+  {
     "name": "FANTASY SPORTS OPERATOR COALITION D/B/A COALITION FOR FANTASY SPORTS",
     "id": "1482667",
     "quarters": [
@@ -660,6 +993,13 @@
     "name": "FORESTHILL TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405418",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3431.51,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 716; and AB 353, 476, and 1018."
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -693,6 +1033,13 @@
     "name": "FRESNO IRRIGATION DISTRICT",
     "id": "1401352",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 30440,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -739,6 +1086,13 @@
     "name": "GOLDEN STATE COMMUNITIES",
     "id": "1455913",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 68476.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "STATE LEGISLATURE REGARDING: SB 562, SB 672."
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -806,6 +1160,13 @@
     "id": "1435847",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 8307.69,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1504; LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING, CA MASSAGE THERAPY COUNCIL SUNSET"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 8307.69,
@@ -861,6 +1222,45 @@
     ]
   },
   {
+    "name": "HEWLETT FOUNDATION; THE WILLAM AND FLORA",
+    "id": "1302211",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "HOLD POLITICIANS ACCOUNTABLE",
+    "id": "1387168",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 19781,
+        "pucLobbying": 0,
+        "lobbiedOn": "ACA 8, AB 604, SB 280 AND RELATED ISSUES"
+      }
+    ]
+  },
+  {
+    "name": "HUMANA, INC.",
+    "id": "1484717",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Payments to a lobbying coalition."
+      }
+    ]
+  },
+  {
     "name": "INSPIRE BRANDS, INC.",
     "id": "1480625",
     "quarters": [
@@ -884,6 +1284,13 @@
     "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405417",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 4016.74,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 716; and AB 353, 476, and 1018."
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -938,11 +1345,44 @@
     "id": "1418369",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3774.13,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 131.41,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "LEGAL AID AT WORK",
+    "id": "1396214",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5744.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 310 SB 423  SB 590  SB 1345 AB 1234  AB 1136  AB 406  AB 1242  AB 969 ACA 6 AB 475 AB 904"
+      }
+    ]
+  },
+  {
+    "name": "LIFE PACIFIC UNIVERSITY",
+    "id": "1392095",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -1015,6 +1455,13 @@
     "name": "MY FRIENDS",
     "id": "1417978",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6885,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 785; LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES, MEDI-CAL RATES"
+      },
       {
         "quarter": "1st",
         "session": "2025-2026",
@@ -1090,6 +1537,19 @@
     ]
   },
   {
+    "name": "NEXTGEN CALIFORNIA ACTION",
+    "id": "1450865",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6203,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 470; Legislature: Cap and Trade Re-authorization."
+      }
+    ]
+  },
+  {
     "name": "PARENTS FOR SCHOOL OPTIONS",
     "id": "1482775",
     "quarters": [
@@ -1123,9 +1583,29 @@
     ]
   },
   {
+    "name": "PEOPLE OVER PROFITS FLORIDA, INC.",
+    "id": "1484732",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 12000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Housing Legislation"
+      }
+    ]
+  },
+  {
     "name": "PICO CALIFORNIA",
     "id": "1419888",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 12269.84,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB1231"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1225,6 +1705,13 @@
     "id": "1396247",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3558.22,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 353, 476, 1018; SB 716"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 5090.22,
@@ -1254,9 +1741,29 @@
     ]
   },
   {
+    "name": "PROTECT APP-BASED DRIVERS AND SERVICES",
+    "id": "1436282",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 399897.65,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1340; SB 7"
+      }
+    ]
+  },
+  {
     "name": "PUBLIC ADVOCATES",
     "id": "1357454",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10588,
+        "pucLobbying": 0,
+        "lobbiedOn": "CDE;CTC;SBE;Governor's office;DOF Assemblymembers Alvarez;Valencia;Sen Valenzuela ABs 49,84,414,477,715,927,1224;SBs 48,414,436,437,477,494,518 Senate Ed Comm;Asm Judiciary Comm"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1278,6 +1785,13 @@
     "id": "1460054",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 252727.07,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Support for cap-and-trade issues."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 126772.8,
@@ -1287,15 +1801,48 @@
     ]
   },
   {
+    "name": "RG ENVIRONMENTAL HOLDINGS INC.",
+    "id": "1392082",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7516.92,
+        "pucLobbying": 0,
+        "lobbiedOn": "CalRecycle re: Solid Waste Haulers Regulations and SB 54 Packaging Regulations"
+      }
+    ]
+  },
+  {
     "name": "RIDGELINE PEDIATRIC",
     "id": "1461909",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5985,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 785; LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES, MEDI-CAL RATES"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 11970,
         "pucLobbying": 0,
         "lobbiedOn": "SB 785; LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES"
+      }
+    ]
+  },
+  {
+    "name": "SACRAMENTO RIVER SETTLEMENT CONTRACTORS",
+    "id": "1468391",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 36007,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB59, AB131, AB269, AB295, AB430, AB514, AB687, AB929, AB1146, AB1169, SB72, SB601"
       }
     ]
   },
@@ -1324,6 +1871,13 @@
     "id": "1368816",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 100000,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 57, 62; SB 437, 518; The San Francisco Foundation provides grants to other non-profit organizations that may be used, in whole or in part, to engage in lobbying efforts. Please reference the recipient organizations' filed reports for any matters lobbied by those organizations."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 406200,
@@ -1343,6 +1897,13 @@
     "name": "SAVE LOCAL RESTAURANTS",
     "id": "1459886",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10000,
+        "pucLobbying": 0,
+        "lobbiedOn": "FAST FOOD COUNCIL: CALIFORNIA DEPARTMENT OF INDUSTRIAL RELATIONS"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1364,6 +1925,13 @@
     "id": "1397628",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 61608.31,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 736, 1018, 1071, 1231; SB 81, 578, 580, 627, 805."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 730040.14,
@@ -1376,6 +1944,13 @@
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 24455.85,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attached."
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1430,6 +2005,13 @@
     "id": "1302175",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10370,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 339, 399, 1113; Legislature: State Budget, Medi-Cal Coverage, Developmental Disabilities, In-Home Supportive Services, Judicial Branch Funding, Immigration Reform, Support Child Care and Child Welfare Programs"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 29854.1,
@@ -1463,6 +2045,13 @@
     "id": "1306660",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 9639.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 716; and AB 353, 476, and 1018 State: None"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 9639.66,
@@ -1483,6 +2072,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 127205.26,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control, Governor's Office, and Legislature: SB 404, metal recycling and the circular economy"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 47090.63,
@@ -1502,6 +2098,13 @@
     "name": "SISKIYOU TELEPHONE COMPANY",
     "id": "1396090",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3345.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: SB 716, AB 353, AB 476, AB 1018"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1556,6 +2159,13 @@
     "id": "1418603",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 12047,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 942; SB 710"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 98350,
@@ -1576,6 +2186,13 @@
     "id": "1480672",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 208598.42,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 39458.36,
@@ -1588,6 +2205,19 @@
         "paymentsToInfluence": 87581.59,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "STATE SENATE VICTORY FUND",
+    "id": "1484719",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 254"
       }
     ]
   },
@@ -1609,6 +2239,13 @@
     "id": "1466461",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 22743.04,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 720, SB 358, SB 79, SB 445, AB 382, AB 1085, AB 366"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 18574.71,
@@ -1628,6 +2265,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1669,6 +2313,13 @@
     "id": "1460444",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 38285.5,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 0,
@@ -1689,6 +2340,13 @@
     "id": "1417976",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5586,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 785; LEGISLATURE, GOVERNOR'S OFFICE RE: MEDI-CAL, PEDIATRIC DAY HEALTH CARE RATES, MEDI-CAL RATES CARE RATES"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 11172,
@@ -1702,6 +2360,13 @@
     "id": "1396377",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 37184.48,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "1st",
         "session": "2025-2026",
         "paymentsToInfluence": 62635.62,
@@ -1711,9 +2376,29 @@
     ]
   },
   {
+    "name": "VANGUARD UNIVERSITY OF SOUTHERN CALIFORNIA",
+    "id": "1392157",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2608.26,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 353, 476, 1018; SB 716"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1735,6 +2420,13 @@
     "id": "1380645",
     "quarters": [
       {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 61743.53,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1260, AB 740, AB 942, CEC 25-IEPR-05, R.20-05-012, R.22.11-013, R.20-05-003, 2027 PG&E General Rate Case, CEC Non-Energy-Impact Working OIIR, Community Solar and Storage Rulemaking, Los Angeles Department of Water and Power State Clearinghouse Number 2023050366"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 60216.18,
@@ -1747,6 +2439,19 @@
         "paymentsToInfluence": 61765.5,
         "pucLobbying": 0,
         "lobbiedOn": "CPUC R.20-05-003, CPUC R.22-11-013 and CEC 24 -OIIP-03"
+      }
+    ]
+  },
+  {
+    "name": "WESTMONT COLLEGE",
+    "id": "1399860",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
       }
     ]
   },
@@ -1767,6 +2472,19 @@
         "paymentsToInfluence": 7099.91,
         "pucLobbying": 0,
         "lobbiedOn": "AB 50, 65, 360, 379, 878, 969, 1018, 1351; SB 418, 498, 578, 590, 608, 642."
+      }
+    ]
+  },
+  {
+    "name": "YOUTH FORWARD",
+    "id": "1484741",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
       }
     ]
   }
