@@ -1034,6 +1034,13 @@
     "id": "1401352",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 9300,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 30440,
@@ -2231,6 +2238,19 @@
         "paymentsToInfluence": 87581.59,
         "pucLobbying": 0,
         "lobbiedOn": ""
+      }
+    ]
+  },
+  {
+    "name": "SOQUEL CREEK WATER DISTRICT",
+    "id": "1395665",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 38148.26,
+        "pucLobbying": 0,
+        "lobbiedOn": "None"
       }
     ]
   },
