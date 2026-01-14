@@ -731,6 +731,33 @@
     ]
   },
   {
+    "name": "CONNECTING FOR BETTER HEALTH",
+    "id": "1486131",
+    "quarters": [
+      {
+        "quarter": "3rd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 29419.47,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate Bill 660 (Menjivar)"
+      },
+      {
+        "quarter": "2nd",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10806.98,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate Bill 600 (Menjivar)"
+      },
+      {
+        "quarter": "1st",
+        "session": "2025-2026",
+        "paymentsToInfluence": 50327.61,
+        "pucLobbying": 0,
+        "lobbiedOn": "Senate Bill 660 (Menjivar)"
+      }
+    ]
+  },
+  {
     "name": "CONSUMERS AGAINST GREED PAC (CAGPAC)",
     "id": "1484768",
     "quarters": [
@@ -2132,6 +2159,13 @@
     "id": "1396090",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3345.05,
+        "pucLobbying": 0,
+        "lobbiedOn": "No Legislative or State agency administrative actions actively lobbied during the period."
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 3345.05,
@@ -2311,6 +2345,13 @@
     "name": "TDS TELECOM",
     "id": "1405283",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
