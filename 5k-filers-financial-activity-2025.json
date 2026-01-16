@@ -2483,6 +2483,19 @@
     ]
   },
   {
+    "name": "VISTA IRRIGATION DISTRICT",
+    "id": "1401209",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 52488,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 1255 (Durazo), AB 339 (Ortega), SB 496 (Hurtado), SB 707 (Durazo)"
+      }
+    ]
+  },
+  {
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
