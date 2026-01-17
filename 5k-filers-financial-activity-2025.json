@@ -1604,6 +1604,19 @@
     ]
   },
   {
+    "name": "OAKDALE IRRIGATION DISTRICT",
+    "id": "1395649",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 49750,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      }
+    ]
+  },
+  {
     "name": "PARENTS FOR SCHOOL OPTIONS",
     "id": "1482775",
     "quarters": [
