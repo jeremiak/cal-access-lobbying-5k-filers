@@ -2339,6 +2339,13 @@
     "id": "1466461",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 8980.93,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: parking, transit, housing, traffic enforcement, and standards issues."
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 22743.04,
