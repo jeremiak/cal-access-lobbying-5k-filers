@@ -775,6 +775,13 @@
     "id": "1439710",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "In support of a general legislative subject matter concerning Article V of the U.S. Constitution"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 6172.15,
@@ -2579,6 +2586,19 @@
         "paymentsToInfluence": 15000,
         "pucLobbying": 0,
         "lobbiedOn": "NONE"
+      }
+    ]
+  },
+  {
+    "name": "WILLIAM JESSUP UNIVERSITY",
+    "id": "1392109",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "none"
       }
     ]
   },
