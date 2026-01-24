@@ -103,6 +103,13 @@
     "id": "1450269",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 20000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislation and ballot initiative regarding the legalization of safe and regulated use of psychedelics."
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 50000,
