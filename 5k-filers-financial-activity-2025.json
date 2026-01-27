@@ -909,6 +909,13 @@
     "id": "1354858",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 139411.44,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control, Governor's Office, and Legislature: SB 404, metal recycling and the circular economy; Department of Toxic Substances Control and Legislature: SB 811 "
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 69341.01,
@@ -1034,6 +1041,13 @@
     "name": "FORESTHILL TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405418",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3431.51,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -1332,6 +1346,13 @@
     "name": "KERMAN TELEPHONE CO (DBA SEBASTIAN)",
     "id": "1405417",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 4016.74,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -2139,6 +2160,13 @@
     "id": "1306660",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 9639.66,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature: None State: None"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 9639.66,
@@ -2433,6 +2461,19 @@
         "paymentsToInfluence": 12583.94,
         "pucLobbying": 0,
         "lobbiedOn": "SB 1047 SB 892 AB 3211 AB 2655 AB 2839 SB 1228 AB 459 AB 2286 SB 915 SB 1220 AB 2930 AB 747 AB 2747 AB 1893 AB 2396 AB 2785  AB 2216 AB 2347 AB 2926 AB 2016 AB 1103 AB 2801 AB 1932 AB 2785 ACA 10 AB 1657 SB 225 SB 1061 AB 2200 SB 1030 SB 333 SB 1089  AB 518 AB 2499 SB 1090 SB 1137 SB 1022 AB 1961 AB 2751 SB 1345 AB 2042 SB 1212 AB 2358 SB 1103"
+      }
+    ]
+  },
+  {
+    "name": "TFP GROUP, INC. DBA TRAINING FUNDING PARTNERS",
+    "id": "1438336",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CALIFORNIA STATE LEGISLATURE REGARDING: AB 765."
       }
     ]
   },
