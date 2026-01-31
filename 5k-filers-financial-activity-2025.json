@@ -335,6 +335,13 @@
     "id": "1444222",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5000,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 10000,
@@ -465,6 +472,13 @@
     "name": "CALIFORNIA GAMING ASSOCIATION",
     "id": "1415491",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 33750,
+        "pucLobbying": 0,
+        "lobbiedOn": "PROPOSED REGULATIONS ON PLAYER-DEALER AND BLACKJACK: ATTORNEY GENERAL'S OFFICE"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -950,6 +964,13 @@
     "id": "1303365",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature, Governor's Office, State Board of Education, Department of Finance: Budget of 2025-2026"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 0,
@@ -1083,6 +1104,13 @@
     "id": "1482517",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 13250,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 15000,
@@ -1135,6 +1163,19 @@
         "paymentsToInfluence": 30194.57,
         "pucLobbying": 0,
         "lobbiedOn": "Legislature: State Budget."
+      }
+    ]
+  },
+  {
+    "name": "FUND FOR A BETTER FUTURE INC",
+    "id": "1461902",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 46000,
+        "pucLobbying": 0,
+        "lobbiedOn": "SUPPORT CALIFORNIA COMMUNITY RISK REDUCTION"
       }
     ]
   },
@@ -1196,6 +1237,13 @@
     "id": "1480485",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 11731.78,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 18689.97,
@@ -1215,6 +1263,13 @@
     "name": "GROVE CARBON FUND I LP",
     "id": "1482523",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 13500,
+        "pucLobbying": 0,
+        "lobbiedOn": "CA GOVERNOR'S OFFICE, CA AIR RESOURCES BOARD, STATE LEGISLATURE: CAP-AND-TRADE POLICY"
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1552,6 +1607,13 @@
     "id": "1417978",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 6885,
+        "pucLobbying": 0,
+        "lobbiedOn": "RESPIRATORY CARE BOARD RE: RESPIRATORY THERAPISTS REGULATIONS"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 6885,
@@ -1751,6 +1813,19 @@
     ]
   },
   {
+    "name": "PINDROP SECURITY INC.",
+    "id": "1486872",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 30000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Wiretap Litigation; Privacy; and Cybersecurity Legislation."
+      }
+    ]
+  },
+  {
     "name": "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST",
     "id": "1378843",
     "quarters": [
@@ -1880,6 +1955,13 @@
     "id": "1357454",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 12004,
+        "pucLobbying": 0,
+        "lobbiedOn": "CDE;CTC;SBE;Governor's office;DOF, Senate Pro Tem Limon Assemblymembers Alvarez;Ortega; Rivas;Sen Perez, Wahab ABs 84,715,1204,1224 Assembly Budget Committee,Senate Ed Comm;CPAG, community schools"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 10588,
@@ -1939,6 +2021,13 @@
     "name": "RIDGELINE PEDIATRIC",
     "id": "1461909",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5985,
+        "pucLobbying": 0,
+        "lobbiedOn": "RESPIRATORY CARE BOARD RE: RESPIRATORY THERAPISTS REGULATIONS"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -2262,6 +2351,13 @@
     "id": "1437356",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 330979.17,
+        "pucLobbying": 0,
+        "lobbiedOn": ""
+      },
+      {
         "quarter": "2nd",
         "session": "2025-2026",
         "paymentsToInfluence": 395796,
@@ -2522,6 +2618,13 @@
     "name": "TOGETHER WE GROW",
     "id": "1417976",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 5586,
+        "pucLobbying": 0,
+        "lobbiedOn": "RESPIRATORY CARE BOARD RE: RESPIRATORY THERAPISTS REGULATIONS"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
