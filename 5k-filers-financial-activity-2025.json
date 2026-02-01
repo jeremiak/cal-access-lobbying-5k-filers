@@ -150,6 +150,13 @@
     "id": "1461817",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 70900,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 776"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 32725,
@@ -538,6 +545,13 @@
     "name": "CALIFORNIANS FOR ENERGY INDEPENDENCE",
     "id": "1368757",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 1035800,
+        "pucLobbying": 0,
+        "lobbiedOn": "GENERAL ISSUES RELATING TO ENERGY INDEPENDENCE IN CALIFORNIA"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -1547,6 +1561,19 @@
         "paymentsToInfluence": 22064,
         "pucLobbying": 0,
         "lobbiedOn": "CAP AND TRADE PROGRAM: CALIFORNIA AIR RESOURCES BOARD, LEGISLATURE"
+      }
+    ]
+  },
+  {
+    "name": "LOS ANGELES BUSINESS COUNCIL",
+    "id": "1484593",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 15000,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: Low Carbon Fuel Standard"
       }
     ]
   },
