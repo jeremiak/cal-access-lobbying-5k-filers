@@ -375,6 +375,13 @@
     "id": "1461962",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 22563.23,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 13698.38,
@@ -1297,6 +1304,13 @@
     "name": "HAND & STONE",
     "id": "1435847",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 8307.69,
+        "pucLobbying": 0,
+        "lobbiedOn": "LEGISLATURE RE: MASSAGE THERAPY REGULATION AND LICENSING"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
