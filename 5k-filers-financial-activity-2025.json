@@ -276,6 +276,13 @@
     "id": "1484724",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 7500,
+        "pucLobbying": 0,
+        "lobbiedOn": "SB 63"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 10102,
@@ -395,6 +402,13 @@
     "id": "1405445",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3607.88,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 3607.88,
@@ -421,6 +435,13 @@
     "name": "CALAVERAS TELEPHONE COMPANY",
     "id": "1396091",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 3030.76,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -692,6 +713,13 @@
     "id": "1484713",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 41595.4,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1207; SB 840"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 124785.48,
@@ -743,6 +771,13 @@
     "name": "COMMUNITY WATER CENTER ACTION FUND AND AFFILIATED ENTITY COMMUNITY WATER CENTER",
     "id": "1442003",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2016.68,
+        "pucLobbying": 0,
+        "lobbiedOn": "Community Water Center lobbied on legislative matters for a bill being pitched for the 2026 CA legislative session."
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -894,6 +929,19 @@
     ]
   },
   {
+    "name": "CUCAMONGA VALLEY WATER DISTRICT",
+    "id": "1486876",
+    "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10323,
+        "pucLobbying": 0,
+        "lobbiedOn": "NOTHING TO REPORT"
+      }
+    ]
+  },
+  {
     "name": "CUSTOM CORPORATE COMMUNICATIONS",
     "id": "1480713",
     "quarters": [
@@ -923,6 +971,13 @@
     "name": "DUCOR TELEPHONE COMPANY",
     "id": "1405469",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -1237,6 +1292,13 @@
     "name": "GRACE END CHILD POVERTY INSTITUTE",
     "id": "1397853",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 43925.45,
+        "pucLobbying": 0,
+        "lobbiedOn": "See attachment."
+      },
       {
         "quarter": "2nd",
         "session": "2025-2026",
@@ -1943,6 +2005,13 @@
     "id": "1396247",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2026.22,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 3558.22,
@@ -2123,6 +2192,13 @@
     "id": "1368816",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 617975,
+        "pucLobbying": 0,
+        "lobbiedOn": "AB 1157; The San Francisco Foundation provides grants to other non-profit organizations that may be used, in whole or in part, to engage in lobbying efforts. Please reference the recipient organizations' filed reports for any matters lobbied by those organizations."
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 100000,
@@ -2196,6 +2272,13 @@
     "name": "SEIU UNITED HEALTHCARE WORKERS WEST",
     "id": "1276614",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 10963.35,
+        "pucLobbying": 0,
+        "lobbiedOn": "Legislature re: AB 1113; Department of Health Care Access and Information (HCAI) re: Office of Health Care Affordability (OHCA); Health Care Payments Data Program (HPD); Hospital Equity Measures Program; California State Office of Rural Health (CalSORH); Department of Health Care Services (DHCS) ? HR 1 implementation."
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -2331,6 +2414,13 @@
     "id": "1318031",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 106692.01,
+        "pucLobbying": 0,
+        "lobbiedOn": "Department of Toxic Substances Control, Governor's Office, and Legislature: SB 404, metal recycling and the circular economy;Department of Toxic Substances Control and Legislature: SB 811  "
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 127205.26,
@@ -2431,6 +2521,13 @@
     "name": "SOLAR RIGHTS ALLIANCE",
     "id": "1418603",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
@@ -2633,6 +2730,13 @@
     "id": "1460444",
     "quarters": [
       {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 0,
+        "pucLobbying": 17377.4,
+        "lobbiedOn": "California Public Utilities Commission proceedings"
+      },
+      {
         "quarter": "3rd",
         "session": "2025-2026",
         "paymentsToInfluence": 0,
@@ -2732,6 +2836,13 @@
     "name": "VOLCANO TELEPHONE COMPANY",
     "id": "1396213",
     "quarters": [
+      {
+        "quarter": "4th",
+        "session": "2025-2026",
+        "paymentsToInfluence": 2608.26,
+        "pucLobbying": 0,
+        "lobbiedOn": "NONE"
+      },
       {
         "quarter": "3rd",
         "session": "2025-2026",
